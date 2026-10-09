@@ -74,20 +74,20 @@
   {
     "placeId": "fi-zio-gigi",
     "foodId": "pappardelle-al-cinghiale",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Pappardelle al cinghiale",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/osteria-zio-gigi-r853218/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork Italian menu, last updated 2026-03-27."
   },
   {
     "placeId": "fi-zio-gigi",
     "foodId": "bistecca-alla-fiorentina",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Bistecca alla fiorentina (min 500g) (per 100g)",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/osteria-zio-gigi-r853218/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork Italian menu, last updated 2026-03-27."
   },
   {
     "placeId": "fi-arte-dory",
@@ -236,47 +236,47 @@
   {
     "placeId": "fi-sergio-gozzi",
     "foodId": "peposo",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Peposo",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.firenzemadeintuscany.com/it/place/trattoria-sergio-gozzi/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Local editorial food coverage, not official menu; daily rotating."
   },
   {
     "placeId": "fi-sergio-gozzi",
     "foodId": "bistecca-alla-fiorentina",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Bistecca alla fiorentina",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.firenzemadeintuscany.com/it/place/trattoria-sergio-gozzi/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Local editorial coverage, not official menu."
   },
   {
     "placeId": "fi-sergio-gozzi",
     "foodId": "trippa-alla-fiorentina",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Trippa",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.firenzemadeintuscany.com/it/place/trattoria-sergio-gozzi/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Source names trippa, not explicitly alla fiorentina. Confirm preparation before treating as exact variant."
   },
   {
     "placeId": "fi-sergio-gozzi",
     "foodId": "ribollita",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Ribollita",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.firenzemadeintuscany.com/it/place/trattoria-sergio-gozzi/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Explicitly winter seasonal."
   },
   {
     "placeId": "fi-sergio-gozzi",
     "foodId": "pappa-al-pomodoro",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Pappa al pomodoro",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.firenzemadeintuscany.com/it/place/trattoria-sergio-gozzi/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Explicitly summer seasonal."
   },
   {
     "placeId": "pisa-via-san-martino-86",
@@ -376,5 +376,41 @@
     "sourceUrl": "https://www.comune.lucca.it/progetti/il-buccellato-del-taddeucci/",
     "verifiedAt": "2026-10-09",
     "notes": "Lucca municipal source confirms traditional bakery specialty; not a current restaurant menu."
+  },
+  {
+    "placeId": "fi-zio-gigi",
+    "foodId": "ribollita",
+    "menuName": "Ribollita toscana o minestrone",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/osteria-zio-gigi-r853218/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "Alternative choice shown on TheFork menu; may be seasonal."
+  },
+  {
+    "placeId": "fi-zio-gigi",
+    "foodId": "peposo",
+    "menuName": "Spezzatino di manzo peposo alla fiorentina",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/osteria-zio-gigi-r853218/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "Menu preparation is a beef stew described as peposo, not necessarily the Impruneta recipe."
+  },
+  {
+    "placeId": "fi-zio-gigi",
+    "foodId": "trippa-alla-fiorentina",
+    "menuName": "Trippa alla fiorentina",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/osteria-zio-gigi-r853218/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork Italian menu, last updated 2026-03-27."
+  },
+  {
+    "placeId": "fi-roberto",
+    "foodId": "pappa-al-pomodoro",
+    "menuName": "Pappa al pomodoro con porri fritti e burrata",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/trattoria-roberto-r868800/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork menu updated 2026-09-08; modern variant with fried leeks and burrata."
   }
 ]
