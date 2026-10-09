@@ -1,9 +1,10 @@
 <script lang="ts">
  import { base } from '$app/paths';
- import { dishEvidence, dishById, directionsUrl, mapsUrl } from '$lib/data';
+ import { dishEvidence, dishById, menuForPlace, formatMenuPrice, directionsUrl, mapsUrl } from '$lib/data';
  import { progress, toggleProgress } from '$lib/progress';
  export let data: { place: {id:string;name:string|null;city:string;address:string;origin:string;identityStatus:string;notes?:string;imageUrl?:string;imageSourceUrl?:string} };
  $: items = dishEvidence(data.place.id);
+ $: menu = menuForPlace(data.place.id);
  $: sourced = items.filter(e => e.evidenceStatus !== 'unverified');
 </script>
 <a href="{base}/?city={encodeURIComponent(data.place.city)}" class="back">← {data.place.city} restaurants</a>
@@ -11,5 +12,6 @@
 <h2>Italian dishes at this place</h2>
 {#if sourced.length === 0}<p class="needs-research">No individually sourced dishes yet. This restaurant is included in the guide, but its menu still needs checking.</p>{:else}
 <div class="cards">{#each sourced as item}<article class="card"><span class="tag">{item.evidenceStatus === 'confirmed' ? 'Primary / official source' : 'Third-party report'}</span><h3><a href="{base}/foods/{item.foodId}">{dishById.get(item.foodId)?.italianName || item.menuName}</a></h3><p><strong>Menu wording:</strong> {item.menuName}</p>{#if item.notes}<p class="muted">{item.notes}</p>{/if}{#if item.sourceUrl}<a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">View evidence ↗</a>{/if}</article>{/each}</div>{/if}
+{#if menu}<section class="menu-section"><h2>Published menu and prices</h2><p class="muted">Source: {menu.sourceType} · {menu.sourcePublishedDate ? 'Menu dated '+menu.sourcePublishedDate+' · ' : ''}Retrieved {menu.retrievedAt}. Prices may have changed. <a href={menu.sourceUrl} target="_blank" rel="noopener noreferrer">Original menu ↗</a></p>{#each [...new Set(menu.items.map(i => i.category))] as category}<h3>{category}</h3><div class="menu-rows">{#each menu.items.filter(i=>i.category===category) as item}<div class="menu-row"><span>{#if item.foodId}<a href="{base}/foods/{item.foodId}">{item.name}</a>{:else}{item.name}{/if}</span><strong>{item.price === null ? 'Price unavailable' : formatMenuPrice(item.price,item.priceUnit)}</strong></div>{/each}</div>{/each}</section>{/if}
 {#if data.place.notes}<h2>Research notes</h2><p>{data.place.notes}</p>{/if}
 <p class="legend">Menu listings are evidence of a published specialty, not a guarantee of availability today.</p>
