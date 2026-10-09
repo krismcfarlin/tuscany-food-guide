@@ -239,7 +239,10 @@
       "minestra-di-farro",
       "peposo"
     ],
-    "notes": "Official menu names Zuppa di farro Lucchese (canonical farro soup) and Tordelli lucchesi."
+    "notes": "Official menu names Zuppa di farro Lucchese (canonical farro soup) and Tordelli lucchesi.",
+    "imageUrl": "https://tcdn.mindtrip.ai/images/35127/35127.mzs5ut.jpg",
+    "imageSourceUrl": "https://mindtrip.ai/restaurant/lucca-tuscany/osteria-baralla/re-LJUvkgiU",
+    "imageRightsStatus": "third-party-preview-review-needed"
   },
   {
     "id": "lucca-taddeucci",
@@ -263,7 +266,10 @@
     "identityStatus": "verified-business-listing",
     "identitySourceUrl": null,
     "dishCandidates": [],
-    "notes": "Traditional trattoria; individual menu items not yet verified."
+    "notes": "Traditional trattoria; individual menu items not yet verified.",
+    "imageUrl": "https://irs1.4sqi.net/img/general/600x600/32253759_neJaF66uCUX92lSJl98fx2MRhvEuIo6vabLuulvO828.jpg",
+    "imageSourceUrl": "https://maps.apple.com/place?place-id=IF8D5372A91E07FED",
+    "imageRightsStatus": "third-party-preview-review-needed"
   },
   {
     "id": "lucca-buca-santantonio",
@@ -276,7 +282,10 @@
     "dishCandidates": [
       "minestra-di-farro"
     ],
-    "notes": "Historic traditional Lucca restaurant, official website confirms farro soup."
+    "notes": "Historic traditional Lucca restaurant, official website confirms farro soup.",
+    "imageUrl": "https://cpsgygezfa.cloudimg.io/_gm_/626bff9e670a466a93754bfce8dc2d80.jpeg?w=1280",
+    "imageSourceUrl": "https://www.viamichelin.it/mappe-piantine/ristoranti/poi/lucca-55100-3b3m02q",
+    "imageRightsStatus": "third-party-preview-review-needed"
   },
   {
     "id": "lucca-gli-orti",
