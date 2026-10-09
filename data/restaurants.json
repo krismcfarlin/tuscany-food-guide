@@ -298,7 +298,10 @@
     "dishCandidates": [
       "minestra-di-farro"
     ],
-    "notes": "Traditional Lucca cooking; official site names zuppa di farro e fagioli."
+    "notes": "Traditional Lucca cooking; official site names zuppa di farro e fagioli.",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/f1/7d/44/gli-orti-di-via-elisa.jpg?h=1000&s=1&w=1800",
+    "imageSourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g187898-d911198-Reviews-Gli_Orti_di_via_Elisa-Lucca_Province_of_Lucca_Tuscany.html",
+    "imageRightsStatus": "third-party-preview-review-needed"
   },
   {
     "id": "lucca-trattoria-lucchese",
@@ -349,7 +352,10 @@
       "tordelli-lucchesi",
       "zuppa-frantoiana"
     ],
-    "notes": "Lucca business directory reports tordelli lucchesi and zuppa alla frantoiana."
+    "notes": "Lucca business directory reports tordelli lucchesi and zuppa alla frantoiana.",
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/bd/1b/e6/caption.jpg?h=1400&s=1&w=1400",
+    "imageSourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g187898-d1459493-Reviews-Gigi_Trattoria-Lucca_Province_of_Lucca_Tuscany.html",
+    "imageRightsStatus": "third-party-preview-review-needed"
   },
   {
     "id": "lucca-san-giorgio",
