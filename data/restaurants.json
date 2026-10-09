@@ -225,5 +225,44 @@
     "identityStatus": "provisional",
     "dishCandidates": [],
     "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "lucca-osteria-baralla",
+    "city": "Lucca",
+    "address": "Via Anfiteatro 9, 55100 Lucca",
+    "name": "Osteria Baralla",
+    "origin": "suggested",
+    "identityStatus": "verified-official",
+    "identitySourceUrl": "https://www.osteriabaralla.it/menu/",
+    "dishCandidates": [
+      "tordelli-lucchesi",
+      "minestra-di-farro",
+      "peposo"
+    ],
+    "notes": "Official menu names Zuppa di farro Lucchese (canonical farro soup) and Tordelli lucchesi."
+  },
+  {
+    "id": "lucca-taddeucci",
+    "city": "Lucca",
+    "address": "Piazza San Michele 34, 55100 Lucca",
+    "name": "Buccellato Taddeucci",
+    "origin": "suggested",
+    "identityStatus": "verified-municipal",
+    "identitySourceUrl": "https://www.comune.lucca.it/progetti/il-buccellato-del-taddeucci/",
+    "dishCandidates": [
+      "buccellato"
+    ],
+    "notes": "Municipal source confirms buccellato with anise and raisins; NOT evidence of anicini biscuits."
+  },
+  {
+    "id": "lucca-da-giulio",
+    "city": "Lucca",
+    "address": "Via delle Conce 45, 55100 Lucca",
+    "name": "Trattoria da Giulio",
+    "origin": "suggested",
+    "identityStatus": "verified-business-listing",
+    "identitySourceUrl": null,
+    "dishCandidates": [],
+    "notes": "Traditional trattoria; individual menu items not yet verified."
   }
 ]
