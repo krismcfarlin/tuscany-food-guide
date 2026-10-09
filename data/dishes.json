@@ -100,7 +100,12 @@
     "englishDescription": "Tuscan flatbread, often filled for sandwiches",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Focaccia_semplice.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Focaccia_semplice.jpg",
+    "imageCredit": "Tek3327 / Wikimedia Commons · CC BY-SA 4.0",
+    "imageRightsStatus": "commons-licensed-representative-focaccia",
+    "imageNotes": "Representative plain focaccia with rosemary; not confirmed as a specifically Tuscan schiacciata."
   },
   {
     "id": "schiacciata-con-luva",
