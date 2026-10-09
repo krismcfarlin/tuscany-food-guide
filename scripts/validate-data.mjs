@@ -14,7 +14,7 @@ for (const m of menus) {
  if (!placeIds.has(m.placeId)) errors.push('Unknown menu restaurant '+m.placeId);
  if (!/^https:\/\//.test(m.sourceUrl || '')) errors.push('Missing/invalid menu source '+m.placeId);
  if (m.currency !== 'EUR') errors.push('Unexpected currency '+m.placeId);
- if (!/^\\d{4}-\\d{2}-\\d{2}$/.test(m.retrievedAt || '')) errors.push('Invalid menu retrieval date '+m.placeId);
+ if (!/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(m.retrievedAt || '')) errors.push('Invalid menu retrieval date '+m.placeId);
  if (!Array.isArray(m.items) || m.items.length === 0) errors.push('Empty menu '+m.placeId);
  for (const item of m.items || []) {
   if (!item.name || !item.category) errors.push('Incomplete menu item '+m.placeId);
