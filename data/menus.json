@@ -146,5 +146,51 @@
         "foodId": "buccellato"
       }
     ]
+  },
+  {
+    "placeId": "lucca-la-norma",
+    "sourceUrl": "https://piatti.menu/restaurants/lucca/la-norma-lucca/menu",
+    "sourceType": "third-party-menu-listing",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-09",
+    "currency": "EUR",
+    "extractionMethod": "third-party-menu-page-text",
+    "items": [
+      {
+        "category": "Menù degustazione",
+        "name": "Menù Degustazione (Tasting Menu) 9 Portate",
+        "price": 30,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Granita Di Pomodoro Con Mozzarella",
+        "price": null,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Baccalà Su Toast",
+        "price": null,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Gambero Su Vellutata Di Zucca",
+        "price": null,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi",
+        "name": "Maialino Con Carciofi",
+        "price": null,
+        "priceUnit": "item",
+        "foodId": null
+      }
+    ]
   }
 ]
