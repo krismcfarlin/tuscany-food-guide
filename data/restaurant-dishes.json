@@ -1,0 +1,281 @@
+[
+  {
+    "placeId": "pisa-il-montino",
+    "foodId": "cecina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "pisa-il-montino",
+    "foodId": "castagnaccio",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-trippa-pollini",
+    "foodId": "lampredotto",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-trippa-pollini",
+    "foodId": "trippa-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-pino",
+    "foodId": "schiacciata",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-giorgio",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-la-carraia",
+    "foodId": "gelato",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-vivoli",
+    "foodId": "gelato",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-zio-gigi",
+    "foodId": "pappardelle-al-cinghiale",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-zio-gigi",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-arte-dory",
+    "foodId": "ribollita",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-arte-dory",
+    "foodId": "pappa-al-pomodoro",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-arte-dory",
+    "foodId": "peposo",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-arte-dory",
+    "foodId": "pappardelle-al-cinghiale",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-arte-dory",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-arte-dory",
+    "foodId": "cantucci-e-vin-santo",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-casalinga",
+    "foodId": "ribollita",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-casalinga",
+    "foodId": "trippa-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-casalinga",
+    "foodId": "peposo",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-casalinga",
+    "foodId": "pappardelle-al-cinghiale",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-casalinga",
+    "foodId": "crostini-neri",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-brindellone",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-brindellone",
+    "foodId": "ribollita",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-brindellone",
+    "foodId": "pappa-al-pomodoro",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-brindellone",
+    "foodId": "trippa-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-brindellone",
+    "foodId": "peposo",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-sergio-gozzi",
+    "foodId": "peposo",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-sergio-gozzi",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-sergio-gozzi",
+    "foodId": "trippa-alla-fiorentina",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-sergio-gozzi",
+    "foodId": "ribollita",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  },
+  {
+    "placeId": "fi-sergio-gozzi",
+    "foodId": "pappa-al-pomodoro",
+    "menuName": null,
+    "evidenceStatus": "unverified",
+    "sourceUrl": null,
+    "verifiedAt": null,
+    "notes": "Research lead only; do not display as confirmed menu availability."
+  }
+]

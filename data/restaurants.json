@@ -1,0 +1,224 @@
+[
+  {
+    "id": "pisa-via-san-martino-86",
+    "city": "Pisa",
+    "address": "Via S. Martino, 86, 56125 Pisa",
+    "name": null,
+    "origin": "original",
+    "identityStatus": "unidentified",
+    "dishCandidates": [],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "pisa-il-montino",
+    "city": "Pisa",
+    "address": "Via del Monte, 1, 56126 Pisa",
+    "name": "Pizzeria Il Montino",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "cecina",
+      "castagnaccio"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "pisa-piazza-martiri-29",
+    "city": "Pisa",
+    "address": "Piazza Martiri della Libertà, 29, 56127 Pisa",
+    "name": null,
+    "origin": "original",
+    "identityStatus": "unidentified",
+    "dishCandidates": [],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-trippa-pollini",
+    "city": "Florence",
+    "address": "Via dei Macci 126, Firenze",
+    "name": "Trippa Pollini",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "lampredotto",
+      "trippa-alla-fiorentina"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-cimatori",
+    "city": "Florence",
+    "address": "Piazza de' Cimatori, Firenze",
+    "name": null,
+    "origin": "original",
+    "identityStatus": "unidentified",
+    "dishCandidates": [],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-pino",
+    "city": "Florence",
+    "address": "Via Giuseppe Verdi 36R, Firenze",
+    "name": "Pino",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "schiacciata"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-giorgio",
+    "city": "Florence",
+    "address": "Via Palazzuolo 100r, Firenze",
+    "name": "Trattoria da Giorgio",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "bistecca-alla-fiorentina"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-gelateria-neri",
+    "city": "Florence",
+    "address": "Via dei Neri 9/11R, Firenze",
+    "name": null,
+    "origin": "original",
+    "identityStatus": "unidentified",
+    "dishCandidates": [],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-la-carraia",
+    "city": "Florence",
+    "address": "Piazza Nazario Sauro 25/r, Firenze",
+    "name": "Gelateria La Carraia",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "gelato"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-vivoli",
+    "city": "Florence",
+    "address": "Via Isola delle Stinche 7r, Firenze",
+    "name": "Vivoli",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "gelato"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-tavolini",
+    "city": "Florence",
+    "address": "Via dei Tavolini 3r, Firenze",
+    "name": null,
+    "origin": "original",
+    "identityStatus": "unidentified",
+    "dishCandidates": [],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-zio-gigi",
+    "city": "Florence",
+    "address": "Via Folco Portinari 7R, Firenze",
+    "name": "Osteria Zio Gigi",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "pappardelle-al-cinghiale",
+      "bistecca-alla-fiorentina"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-arte-dory",
+    "city": "Florence",
+    "address": "Via dei Serragli 78R, Firenze",
+    "name": "L'Arte di Dory",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "ribollita",
+      "pappa-al-pomodoro",
+      "peposo",
+      "pappardelle-al-cinghiale",
+      "bistecca-alla-fiorentina",
+      "cantucci-e-vin-santo"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-roberto",
+    "city": "Florence",
+    "address": "Via dei Castellani 4r, Firenze",
+    "name": "Trattoria Roberto",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-casalinga",
+    "city": "Florence",
+    "address": "Via dei Michelozzi 9R, Firenze",
+    "name": "Trattoria La Casalinga",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "ribollita",
+      "trippa-alla-fiorentina",
+      "peposo",
+      "pappardelle-al-cinghiale",
+      "crostini-neri"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-brindellone",
+    "city": "Florence",
+    "address": "Piazza Piattellina 10, Firenze",
+    "name": "I'Brindellone",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "bistecca-alla-fiorentina",
+      "ribollita",
+      "pappa-al-pomodoro",
+      "trippa-alla-fiorentina",
+      "peposo"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-sergio-gozzi",
+    "city": "Florence",
+    "address": "Piazza San Lorenzo 8R, Firenze",
+    "name": "Sergio Gozzi",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [
+      "peposo",
+      "bistecca-alla-fiorentina",
+      "trippa-alla-fiorentina",
+      "ribollita",
+      "pappa-al-pomodoro"
+    ],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  },
+  {
+    "id": "fi-mario",
+    "city": "Florence",
+    "address": "Via Rosina 2r, Firenze",
+    "name": "Trattoria Mario",
+    "origin": "original",
+    "identityStatus": "provisional",
+    "dishCandidates": [],
+    "notes": "Seeded from travel selections; identity and menu details require source verification."
+  }
+]

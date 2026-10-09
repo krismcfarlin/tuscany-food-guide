@@ -1,0 +1,202 @@
+[
+  {
+    "id": "lampredotto",
+    "italianName": "Lampredotto",
+    "englishDescription": "Slow-cooked fourth stomach of cattle, often served in bread",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "trippa-alla-fiorentina",
+    "italianName": "Trippa alla fiorentina",
+    "englishDescription": "Tripe cooked with tomato sauce",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "ribollita",
+    "italianName": "Ribollita",
+    "englishDescription": "Tuscan bread, bean and vegetable soup",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "peposo",
+    "italianName": "Peposo dell'Impruneta",
+    "englishDescription": "Beef slow-cooked with black pepper and red wine",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "crostini-neri",
+    "italianName": "Crostini neri",
+    "englishDescription": "Toasted bread with chicken-liver spread",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "bistecca-alla-fiorentina",
+    "italianName": "Bistecca alla fiorentina",
+    "englishDescription": "Florentine T-bone steak",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "pappardelle-al-cinghiale",
+    "italianName": "Pappardelle al cinghiale",
+    "englishDescription": "Wide pasta with wild-boar ragù",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "pappa-al-pomodoro",
+    "italianName": "Pappa al pomodoro",
+    "englishDescription": "Thick tomato and bread dish",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "schiacciata",
+    "italianName": "Schiacciata",
+    "englishDescription": "Tuscan flatbread, often filled for sandwiches",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "schiacciata-con-luva",
+    "italianName": "Schiacciata con l'uva",
+    "englishDescription": "Sweet grape bread",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "cantucci-e-vin-santo",
+    "italianName": "Cantucci e Vin Santo",
+    "englishDescription": "Almond biscuits served with dessert wine",
+    "region": "Florence",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "castagnaccio",
+    "italianName": "Castagnaccio",
+    "englishDescription": "Chestnut flour cake",
+    "region": "Tuscany",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "gelato",
+    "italianName": "Gelato",
+    "englishDescription": "Italian frozen dessert",
+    "region": "Tuscany",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "tordelli-lucchesi",
+    "italianName": "Tordelli lucchesi",
+    "englishDescription": "Stuffed pasta commonly served with meat ragù",
+    "region": "Lucca",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "buccellato",
+    "italianName": "Buccellato di Lucca",
+    "englishDescription": "Sweet bread with anise and raisins",
+    "region": "Lucca",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "zuppa-frantoiana",
+    "italianName": "Zuppa alla frantoiana",
+    "englishDescription": "Bean and vegetable soup",
+    "region": "Lucca",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "torta-coi-becchi",
+    "italianName": "Torta coi becchi",
+    "englishDescription": "Traditional Lucchese tart",
+    "region": "Lucca",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "minestra-di-farro",
+    "italianName": "Minestra di farro",
+    "englishDescription": "Spelt soup",
+    "region": "Lucca",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "cioncia",
+    "italianName": "Cioncia",
+    "englishDescription": "Traditional slow-cooked beef offal dish",
+    "region": "Lucca",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "cecina",
+    "italianName": "Cecina",
+    "englishDescription": "Baked chickpea flour flatbread",
+    "region": "Pisa",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "cinque-e-cinque",
+    "italianName": "Cinque e cinque",
+    "englishDescription": "Cecina inside bread; strongly associated with Livorno",
+    "region": "Livorno/Pisa",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "bordatino",
+    "italianName": "Bordatino pisano",
+    "englishDescription": "Thick soup with cornmeal, beans and greens",
+    "region": "Pisa",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "torta-co-bischeri",
+    "italianName": "Torta co' bischeri",
+    "englishDescription": "Rice, chocolate, nut and raisin tart",
+    "region": "Pisa",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "baccala-coi-porri",
+    "italianName": "Baccalà coi porri",
+    "englishDescription": "Salt cod with leeks",
+    "region": "Pisa",
+    "aliases": [],
+    "mustTry": true
+  },
+  {
+    "id": "anicini",
+    "italianName": "Anicini",
+    "englishDescription": "Anise-flavored biscuits; distinct from buccellato",
+    "region": "Tuscany",
+    "aliases": [],
+    "mustTry": true
+  }
+]
