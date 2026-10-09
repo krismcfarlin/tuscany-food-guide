@@ -52,7 +52,11 @@
     "englishDescription": "Toasted bread with chicken-liver spread",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Crostini_Toscani.png",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Crostini_Toscani.png",
+    "imageCredit": "007007wiki / public domain",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "bistecca-alla-fiorentina",
@@ -104,7 +108,11 @@
     "englishDescription": "Sweet grape bread",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tartas_varias_en_Florencia.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tartas_varias_en_Florencia.jpg",
+    "imageCredit": "El Mono Español / Wikimedia Commons",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "cantucci-e-vin-santo",
