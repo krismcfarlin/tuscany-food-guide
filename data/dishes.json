@@ -269,6 +269,11 @@
     "englishDescription": "Anise-flavored biscuits; distinct from buccellato",
     "region": "Tuscany",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Biscotti_all%27Anice.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Biscotti_all%27Anice.jpg",
+    "imageCredit": "DinaBenedettoFerrandina / Wikimedia Commons · CC BY-SA 4.0",
+    "imageRightsStatus": "commons-licensed-representative-anise-biscuits",
+    "imageNotes": "Photograph depicts Italian anise biscuits; exact Tuscan anicini regional form not independently established."
   }
 ]
