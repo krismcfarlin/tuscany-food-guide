@@ -264,5 +264,115 @@
     "identitySourceUrl": null,
     "dishCandidates": [],
     "notes": "Traditional trattoria; individual menu items not yet verified."
+  },
+  {
+    "id": "lucca-buca-santantonio",
+    "city": "Lucca",
+    "address": "Via della Cervia 3, 55100 Lucca",
+    "name": "Buca di Sant’Antonio",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.bucadisantantonio.com/",
+    "dishCandidates": [
+      "minestra-di-farro"
+    ],
+    "notes": "Historic traditional Lucca restaurant, official website confirms farro soup."
+  },
+  {
+    "id": "lucca-gli-orti",
+    "city": "Lucca",
+    "address": "Via Elisa 17, 55100 Lucca",
+    "name": "Gli Orti di Via Elisa",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.ristorantegliorti.it/",
+    "dishCandidates": [
+      "minestra-di-farro"
+    ],
+    "notes": "Traditional Lucca cooking; official site names zuppa di farro e fagioli."
+  },
+  {
+    "id": "lucca-trattoria-lucchese",
+    "city": "Lucca",
+    "address": "Piazza Anfiteatro 4, 55100 Lucca",
+    "name": "Trattoria Lucchese",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.trattoria-lucchese.it/",
+    "dishCandidates": [
+      "tordelli-lucchesi",
+      "minestra-di-farro",
+      "cioncia"
+    ],
+    "notes": "Official site explicitly names Tordello lucchese, Zuppa con il farro and Cioncia."
+  },
+  {
+    "id": "lucca-canuleia",
+    "city": "Lucca",
+    "address": "Via Canuleia 14, 55100 Lucca",
+    "name": "Canuleia Trattoria",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.canuleiatrattoria.it/homepage/il-nostro-menu/",
+    "dishCandidates": [],
+    "notes": "Contemporary Tuscan restaurant with restaurant-owned 2026 menu; specific canonical dishes not yet matched."
+  },
+  {
+    "id": "lucca-da-leo",
+    "city": "Lucca",
+    "address": "Via Tegrimi 1, 55100 Lucca",
+    "name": "Trattoria da Leo",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.trattoriadaleo.it/",
+    "dishCandidates": [],
+    "notes": "Traditional trattoria; online site contains apparent template errors, so individual menu associations require stronger confirmation."
+  },
+  {
+    "id": "lucca-gigi",
+    "city": "Lucca",
+    "address": "Piazza del Carmine 7, 55100 Lucca",
+    "name": "Gigi Trattoria",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.lucca.com/trattorie/158640_it_gigi_trattoria.htm",
+    "dishCandidates": [
+      "tordelli-lucchesi",
+      "zuppa-frantoiana"
+    ],
+    "notes": "Lucca business directory reports tordelli lucchesi and zuppa alla frantoiana."
+  },
+  {
+    "id": "lucca-san-giorgio",
+    "city": "Lucca",
+    "address": "Via San Giorgio 26, 55100 Lucca",
+    "name": "Osteria San Giorgio",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.osteriasangiorgio.com/contact/",
+    "dishCandidates": [],
+    "notes": "Official contact page verifies restaurant and address; specific dishes need research."
+  },
+  {
+    "id": "lucca-miranda",
+    "city": "Lucca",
+    "address": "Via dei Carrozzieri 27, 55100 Lucca",
+    "name": "Osteria Miranda",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://www.osteriamiranda.it/la-carta/",
+    "dishCandidates": [],
+    "notes": "Modern seasonal Tuscan restaurant; official current menu reviewed but no direct canonical dictionary match."
+  },
+  {
+    "id": "lucca-da-quartuccio",
+    "city": "Lucca",
+    "address": "Piazza Bernardini 7, 55100 Lucca",
+    "name": "Da Quartuccio Osteria",
+    "origin": "suggested",
+    "identityStatus": "verified-business-listing",
+    "identitySourceUrl": null,
+    "dishCandidates": [],
+    "notes": "Restaurant identity and address from business listing; menu research pending."
   }
 ]
