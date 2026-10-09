@@ -1,0 +1,150 @@
+[
+  {
+    "placeId": "lucca-osteria-baralla",
+    "sourceUrl": "https://www.osteriabaralla.it/menu/",
+    "sourceType": "official-html",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-09",
+    "currency": "EUR",
+    "extractionMethod": "structured-web-text",
+    "items": [
+      {
+        "category": "Antipasti",
+        "name": "Paté di fegato con crostini di pane",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Antipasto toscano",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Tordelli lucchesi",
+        "price": 16,
+        "priceUnit": "item",
+        "foodId": "tordelli-lucchesi"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Zuppa di farro Lucchese",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": "minestra-di-farro"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pici cacio e pepe alla senese",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Peposo dell’Impruneta con polenta",
+        "price": 17,
+        "priceUnit": "item",
+        "foodId": "peposo"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Bistecca di manzo alla “FIORENTINA” (min. 750 g)",
+        "price": 56,
+        "priceUnit": "kg",
+        "foodId": "bistecca-alla-fiorentina"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Baccalà bollito con ceci",
+        "price": 18,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Fagioli bianchi all’olio NOVO",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      }
+    ]
+  },
+  {
+    "placeId": "lucca-da-giulio",
+    "sourceUrl": "https://www.trattoriadagiulio.it/wp-content/uploads/2025/05/DA-GIULIO-Trattoria-Menu-mag2025_Def01g75533-r1.pdf",
+    "sourceType": "official-pdf",
+    "sourcePublishedDate": "2025-05",
+    "retrievedAt": "2026-10-09",
+    "currency": "EUR",
+    "extractionMethod": "pdf-text-layer",
+    "items": [
+      {
+        "category": "Primi piatti",
+        "name": "Zuppa di farro con fagioli",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": "minestra-di-farro"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Zuppa di farro con lenticchie",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": "minestra-di-farro"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Tortelli al ragù",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": "tordelli-lucchesi"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pappa al pomodoro (solo periodo invernale)",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": "pappa-al-pomodoro"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Baccalà con porri",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": "baccala-coi-porri"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Cioncia",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": "cioncia"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Trippa",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Bistecca di manzo e vitella (al Kg)",
+        "price": 50,
+        "priceUnit": "kg",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Biscotti, buccellato e Vin Santo della casa",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": "buccellato"
+      }
+    ]
+  }
+]
