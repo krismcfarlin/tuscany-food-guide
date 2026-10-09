@@ -21,7 +21,10 @@
     "englishDescription": "Tuscan bread, bean and vegetable soup",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Ribollita_toscana.JPG",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ribollita_toscana.JPG",
+    "imageCredit": "Ithunn / Wikimedia Commons · CC BY-SA 3.0"
   },
   {
     "id": "peposo",
