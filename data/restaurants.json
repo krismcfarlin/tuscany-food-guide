@@ -397,5 +397,19 @@
     "identitySourceUrl": null,
     "dishCandidates": [],
     "notes": "Restaurant identity and address from business listing; menu research pending."
+  },
+  {
+    "id": "lucca-la-norma",
+    "city": "Lucca",
+    "name": "Ristorante La Norma",
+    "address": "Via San Nicolao 26, 55100 Lucca LU, Italy",
+    "origin": "suggested",
+    "identityStatus": "verified-source",
+    "identitySourceUrl": "https://ristorantelanorma.it/",
+    "notes": "Sicilian-inspired Italian and seafood cooking. Nine-course tasting menu at €30/person is reported in restaurant listings and diner reviews; current availability and price should be reconfirmed. Published specialties include caponata, seafood and Sicilian cannoli. Dinner service; check hours before visiting.",
+    "cuisine": "Sicilian / Seafood / Italian",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0Nw7lJRvWKB9N7DekhdVpQUpXigE7JALLd0clKyps3iFw0BnnkKoMxqHJQV5-uJUa2R3LtIpQcAWfdF8flSX7UxeDEvC5bti2P-Fv1MGUnzYq5vgtOs9-93eAy5yNuXxFdnl1=s192-w192-h144-n-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Norma%20Lucca",
+    "imageRightsStatus": "user-supplied-google-thumbnail-rights-unverified"
   }
 ]
