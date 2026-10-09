@@ -3,11 +3,12 @@
     "id": "pisa-via-san-martino-86",
     "city": "Pisa",
     "address": "Via S. Martino, 86, 56125 Pisa",
-    "name": null,
+    "name": "Mickey's Cecineria",
     "origin": "original",
-    "identityStatus": "unidentified",
+    "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Business description explicitly mentions classic 5e5 in bread; Just Eat lists Focaccia con Cecina.",
+    "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187899-d12404690-Reviews-Mickey_s_cecineria-Pisa_Province_of_Pisa_Tuscany.html"
   },
   {
     "id": "pisa-il-montino",
@@ -26,11 +27,12 @@
     "id": "pisa-piazza-martiri-29",
     "city": "Pisa",
     "address": "Piazza Martiri della Libertà, 29, 56127 Pisa",
-    "name": null,
+    "name": "Panimo",
     "origin": "original",
-    "identityStatus": "unidentified",
+    "identityStatus": "verified-official-and-third-party",
     "dishCandidates": [],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Official site confirms schiacciate and rosette; address corroborated by Tripadvisor. An alternate business listing uses Panino!, so verify storefront signage.",
+    "identitySourceUrl": "https://www.panimopisa.it/"
   },
   {
     "id": "fi-trippa-pollini",
@@ -49,11 +51,12 @@
     "id": "fi-cimatori",
     "city": "Florence",
     "address": "Piazza de' Cimatori, Firenze",
-    "name": null,
+    "name": "L'Antico Trippaio",
     "origin": "original",
-    "identityStatus": "unidentified",
+    "identityStatus": "verified-official",
     "dishCandidates": [],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Street-food stall in Piazza de' Cimatori; official site names lampredotto and trippa alla fiorentina.",
+    "identitySourceUrl": "https://www.lanticotrippaio.com/"
   },
   {
     "id": "fi-pino",
@@ -83,11 +86,12 @@
     "id": "fi-gelateria-neri",
     "city": "Florence",
     "address": "Via dei Neri 9/11R, Firenze",
-    "name": null,
+    "name": "Gelateria dei Neri",
     "origin": "original",
-    "identityStatus": "unidentified",
+    "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Listing matches Via dei Neri 9/11R; gelato.",
+    "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187895-d2075392-Reviews-Gelateria_dei_Neri-Florence_Tuscany.html"
   },
   {
     "id": "fi-la-carraia",
@@ -117,11 +121,12 @@
     "id": "fi-tavolini",
     "city": "Florence",
     "address": "Via dei Tavolini 3r, Firenze",
-    "name": null,
+    "name": "Osteria La Dolce Vita",
     "origin": "original",
-    "identityStatus": "unidentified",
+    "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "TheFork menu lists Bistecca alla fiorentina, menu last updated November 2025; current availability unconfirmed.",
+    "identitySourceUrl": "https://www.thefork.it/ristorante/osteria-la-dolce-vita-r755610/menu"
   },
   {
     "id": "fi-zio-gigi",
