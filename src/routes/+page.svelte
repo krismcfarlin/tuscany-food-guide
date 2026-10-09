@@ -3,7 +3,7 @@
  import { progress, toggleProgress } from '$lib/progress';
  let city = 'All'; let query = ''; let onlyOriginal = false; let dish = 'All'; let onlyUntasted = false; let onlyFavorites = false; let nearby = false; let locationStatus = ''; let position: {latitude:number; longitude:number} | null = null;
  import { page } from '$app/stores';
- $: city = $page.url.searchParams.get('city') || city;
+ $: if ($page.url.searchParams.has('city')) city = $page.url.searchParams.get('city') || 'All';
  const knownDishIds = [...new Set(evidence.filter(e => e.evidenceStatus !== 'unverified').map(e => e.foodId))].sort((a,b) => (dishById.get(a)?.italianName || a).localeCompare(dishById.get(b)?.italianName || b));
  function findMe() { if (!navigator.geolocation) { locationStatus = 'Location is unavailable on this device.'; return; } locationStatus = 'Finding your location…'; navigator.geolocation.getCurrentPosition(({coords}) => { position = {latitude: coords.latitude, longitude: coords.longitude}; nearby = true; locationStatus = 'Showing distances for researched coordinates only.'; }, () => { locationStatus = 'Location permission denied or unavailable.'; }, {enableHighAccuracy:false,timeout:12000,maximumAge:120000}); }
  function distanceKm(p: {latitude?:number;longitude?:number}) { if (!position || typeof p.latitude !== 'number' || typeof p.longitude !== 'number') return null; const rad=Math.PI/180; const a=Math.sin((p.latitude-position.latitude)*rad/2)**2+Math.cos(position.latitude*rad)*Math.cos(p.latitude*rad)*Math.sin((p.longitude-position.longitude)*rad/2)**2;return 6371*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a)); }
