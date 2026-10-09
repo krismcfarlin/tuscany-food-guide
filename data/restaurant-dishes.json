@@ -92,101 +92,101 @@
   {
     "placeId": "fi-arte-dory",
     "foodId": "ribollita",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Ribollita",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/l-arte-di-dory-r429933/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork menu updated 2026-03-13."
   },
   {
     "placeId": "fi-arte-dory",
     "foodId": "pappa-al-pomodoro",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "pappa al pomodoro",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/l-arte-di-dory-r429933/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork menu updated 2026-03-13."
   },
   {
     "placeId": "fi-arte-dory",
     "foodId": "peposo",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "peposo",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/l-arte-di-dory-r429933/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork menu updated 2026-03-13."
   },
   {
     "placeId": "fi-arte-dory",
     "foodId": "pappardelle-al-cinghiale",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Pappardelle al cinghiale",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/l-arte-di-dory-r429933/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork menu updated 2026-03-13."
   },
   {
     "placeId": "fi-arte-dory",
     "foodId": "bistecca-alla-fiorentina",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Bistecca alla fiorentina (per hg)",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/l-arte-di-dory-r429933/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork menu updated 2026-03-13."
   },
   {
     "placeId": "fi-arte-dory",
     "foodId": "cantucci-e-vin-santo",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "cantucci di prato con vin santo",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.thefork.it/ristorante/l-arte-di-dory-r429933/menu",
+    "verifiedAt": "2026-10-09",
+    "notes": "TheFork menu updated 2026-03-13."
   },
   {
     "placeId": "fi-casalinga",
     "foodId": "ribollita",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Ribollita",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu."
   },
   {
     "placeId": "fi-casalinga",
     "foodId": "trippa-alla-fiorentina",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Trippa alla fiorentina",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu."
   },
   {
     "placeId": "fi-casalinga",
     "foodId": "peposo",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Peposo dell’Impruneta",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu."
   },
   {
     "placeId": "fi-casalinga",
     "foodId": "pappardelle-al-cinghiale",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Pappardelle al sugo di cinghiale",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu."
   },
   {
     "placeId": "fi-casalinga",
     "foodId": "crostini-neri",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Crostini Toscani",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu says Crostini Toscani; corresponding official English menu describes chicken liver pâté. Name is not Crostini neri."
   },
   {
     "placeId": "fi-brindellone",
@@ -340,5 +340,41 @@
     "sourceUrl": "https://www.thefork.it/ristorante/osteria-la-dolce-vita-r755610/menu",
     "verifiedAt": "2026-10-09",
     "notes": "Third-party menu last updated 2025-11-24."
+  },
+  {
+    "placeId": "lucca-osteria-baralla",
+    "foodId": "tordelli-lucchesi",
+    "menuName": "Tordelli lucchesi",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.osteriabaralla.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu."
+  },
+  {
+    "placeId": "lucca-osteria-baralla",
+    "foodId": "minestra-di-farro",
+    "menuName": "Zuppa di farro Lucchese",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.osteriabaralla.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu; canonical entry is farro soup, but wording differs."
+  },
+  {
+    "placeId": "lucca-osteria-baralla",
+    "foodId": "peposo",
+    "menuName": "Peposo dell’Impruneta con polenta",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.osteriabaralla.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official Italian menu."
+  },
+  {
+    "placeId": "lucca-taddeucci",
+    "foodId": "buccellato",
+    "menuName": "Buccellato di Lucca",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.comune.lucca.it/progetti/il-buccellato-del-taddeucci/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Lucca municipal source confirms traditional bakery specialty; not a current restaurant menu."
   }
 ]
