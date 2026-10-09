@@ -412,5 +412,86 @@
     "sourceUrl": "https://www.thefork.it/ristorante/trattoria-roberto-r868800/menu",
     "verifiedAt": "2026-10-09",
     "notes": "TheFork menu updated 2026-09-08; modern variant with fried leeks and burrata."
+  },
+  {
+    "placeId": "lucca-buca-santantonio",
+    "foodId": "minestra-di-farro",
+    "menuName": "Farro soup",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.bucadisantantonio.com/en/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official English restaurant website identifies farro soup as a specialty."
+  },
+  {
+    "placeId": "lucca-gli-orti",
+    "foodId": "minestra-di-farro",
+    "menuName": "Zuppa di farro e fagioli",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.ristorantegliorti.it/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Restaurant-owned site or official description; check seasonal availability."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "tordelli-lucchesi",
+    "menuName": "Tordello lucchese",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Restaurant-owned site or official description; check seasonal availability."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "minestra-di-farro",
+    "menuName": "Zuppa con il farro",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Restaurant-owned site or official description; check seasonal availability."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "cioncia",
+    "menuName": "Cioncia",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Restaurant-owned site or official description; check seasonal availability."
+  },
+  {
+    "placeId": "lucca-gigi",
+    "foodId": "tordelli-lucchesi",
+    "menuName": "Tordelli Lucchesi",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.lucca.com/trattorie/158640_it_gigi_trattoria.htm",
+    "verifiedAt": "2026-10-09",
+    "notes": "Lucca business directory; not a restaurant-owned menu."
+  },
+  {
+    "placeId": "lucca-gigi",
+    "foodId": "zuppa-frantoiana",
+    "menuName": "Zuppa alla Frantoiana",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.lucca.com/trattorie/158640_it_gigi_trattoria.htm",
+    "verifiedAt": "2026-10-09",
+    "notes": "Lucca business directory; not a restaurant-owned menu."
+  },
+  {
+    "placeId": "lucca-da-giulio",
+    "foodId": "tordelli-lucchesi",
+    "menuName": "Tortelli",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoriadagiulio.it/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Official restaurant homepage names Tortelli; canonical association to Lucca-style tordelli is inferred from local context."
+  },
+  {
+    "placeId": "lucca-da-giulio",
+    "foodId": "minestra-di-farro",
+    "menuName": "Zuppa di farro",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoriadagiulio.it/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Restaurant-owned site or official description; check seasonal availability."
   }
 ]
