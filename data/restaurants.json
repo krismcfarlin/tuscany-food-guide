@@ -59,20 +59,21 @@
     "origin": "original",
     "identityStatus": "verified-official",
     "dishCandidates": [],
-    "notes": "Street-food stall in Piazza de' Cimatori; official site names lampredotto and trippa alla fiorentina.",
+    "notes": "The Marchetti family's lampredotto/trippa stall in Piazza de' Cimatori. Official website contains restaurant and food galleries; reuse permission not confirmed.",
     "identitySourceUrl": "https://www.lanticotrippaio.com/"
   },
   {
     "id": "fi-pino",
     "city": "Florence",
     "address": "Via Giuseppe Verdi 36R, Firenze",
-    "name": "Pino",
+    "name": "Pino's Sandwiches – Salumeria Verdi",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-official",
     "dishCandidates": [
       "schiacciata"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Family-run schiacciata sandwich shop since 1991, at Salumeria Verdi (established 1965). Official website confirms menu and address; image permissions not confirmed.",
+    "identitySourceUrl": "https://www.pinossandwiches.com/"
   },
   {
     "id": "fi-giorgio",
@@ -80,11 +81,12 @@
     "address": "Via Palazzuolo 100r, Firenze",
     "name": "Trattoria da Giorgio",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-official",
     "dishCandidates": [
       "bistecca-alla-fiorentina"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Family-run since 1974. Official site publishes fixed-price lunch/dinner menus and a daily-changing selection; no photograph licensed for reuse yet.",
+    "identitySourceUrl": "https://www.trattoriadagiorgio.it/"
   },
   {
     "id": "fi-gelateria-neri",
@@ -92,9 +94,9 @@
     "address": "Via dei Neri 9/11R, Firenze",
     "name": "Gelateria dei Neri",
     "origin": "original",
-    "identityStatus": "verified-third-party",
+    "identityStatus": "verified-business-listing",
     "dishCandidates": [],
-    "notes": "Listing matches Via dei Neri 9/11R; gelato.",
+    "notes": "Gelateria at Via dei Neri 9/11R. Third-party listings and galleries show the storefront and gelato, but no photograph licensed for reuse has been confirmed.",
     "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187895-d2075392-Reviews-Gelateria_dei_Neri-Florence_Tuscany.html"
   },
   {
