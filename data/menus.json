@@ -392,5 +392,58 @@
         "foodId": null
       }
     ]
+  },
+  {
+    "placeId": "fi-giorgio",
+    "sourceUrl": "https://www.trattoriadagiorgio.it/",
+    "sourceType": "official-html",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-09",
+    "currency": "EUR",
+    "extractionMethod": "manual-official-html-text",
+    "items": [
+      {
+        "category": "Menù completi",
+        "name": "Menù tradizionale (pranzo)",
+        "price": 15,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Menù completi",
+        "name": "Menù tradizionale (cena)",
+        "price": 20,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Menù completi",
+        "name": "Menù Tagliata Chianina",
+        "price": 25,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Menù completi",
+        "name": "Menù Bistecca Fiorentina (1 persona)",
+        "price": 35,
+        "priceUnit": "person",
+        "foodId": "bistecca-alla-fiorentina"
+      },
+      {
+        "category": "Menù completi",
+        "name": "Menù Bistecca Fiorentina (2 persone)",
+        "price": 55,
+        "priceUnit": "item",
+        "foodId": "bistecca-alla-fiorentina"
+      },
+      {
+        "category": "Menù completi",
+        "name": "Menù Abruzzese (giovedì, su prenotazione)",
+        "price": 20,
+        "priceUnit": "person",
+        "foodId": null
+      }
+    ]
   }
 ]
