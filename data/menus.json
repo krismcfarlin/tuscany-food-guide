@@ -381,14 +381,14 @@
         "category": "Taglieri Artistici",
         "name": "Degustazione di Formaggi",
         "price": 12,
-        "priceUnit": "person",
+        "priceUnit": "item",
         "foodId": null
       },
       {
         "category": "Taglieri Artistici",
         "name": "Degustazione di Homemade",
         "price": 13,
-        "priceUnit": "person",
+        "priceUnit": "item",
         "foodId": null
       }
     ]
