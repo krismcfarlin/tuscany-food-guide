@@ -192,5 +192,205 @@
         "foodId": null
       }
     ]
+  },
+  {
+    "placeId": "pisa-piazza-martiri-29",
+    "sourceUrl": "https://www.panimopisa.it/menu.html",
+    "sourceType": "official-html",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-09",
+    "currency": "EUR",
+    "extractionMethod": "manual-official-html-text",
+    "items": [
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Scientifico",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Artistico",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Economia",
+        "price": 6.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Football",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Volley",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Vikings",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Peaky Blinders",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Torre di Pisa",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Natalie Portman",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Raffaello",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Facebook",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Instagram",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Diabolik",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Dante",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Mulan",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Peter Pan",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Tarzan",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Schiacciata Toscana",
+        "name": "Simba",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Rosetta Napoletana",
+        "name": "Mergellina",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Rosetta Napoletana",
+        "name": "Castel dell'Ovo",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Rosetta Napoletana",
+        "name": "Spaccanapoli",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Rosetta Napoletana",
+        "name": "Partenope",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Baby Panimo",
+        "name": "Baby Panimo Menu",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Taglieri Artistici",
+        "name": "Tagliere Panimo",
+        "price": 10,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Taglieri Artistici",
+        "name": "Tagliere \"La Sapienza\"",
+        "price": 15,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Taglieri Artistici",
+        "name": "Degustazione di Formaggi",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Taglieri Artistici",
+        "name": "Degustazione di Homemade",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": null
+      }
+    ]
   }
 ]

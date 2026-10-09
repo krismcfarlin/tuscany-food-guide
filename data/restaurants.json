@@ -16,12 +16,16 @@
     "address": "Via del Monte, 1, 56126 Pisa",
     "name": "Pizzeria Il Montino",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-official",
     "dishCandidates": [
       "cecina",
       "castagnaccio"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Official restaurant website confirms address and specialties: pizza, cecina, castagnaccio and filled schiacciate. Photograph linked from official website; publication permission not confirmed.",
+    "imageUrl": "https://irp.cdn-website.com/e94e1c54/dms3rep/multi/opt/WhatsApp%2BImage%2B2023-07-10%2Bat%2B16.11.46-1920w.jpeg",
+    "imageSourceUrl": "https://www.pizzeriailmontino.it/",
+    "imageRightsStatus": "official-website-preview-permission-not-confirmed",
+    "identitySourceUrl": "https://www.pizzeriailmontino.it/"
   },
   {
     "id": "pisa-piazza-martiri-29",
