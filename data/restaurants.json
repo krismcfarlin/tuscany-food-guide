@@ -115,7 +115,11 @@
     "dishCandidates": [
       "gelato"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Seeded from travel selections; identity and menu details require source verification.",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gelataria_Vivoli%2C_Florence.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Gelataria_Vivoli%2C_Florence.jpg",
+    "imageCredit": "Hein56didden / Wikimedia Commons · CC BY-SA 4.0",
+    "imageRightsStatus": "commons-licensed"
   },
   {
     "id": "fi-tavolini",
@@ -255,7 +259,11 @@
     "dishCandidates": [
       "buccellato"
     ],
-    "notes": "Municipal source confirms buccellato with anise and raisins; NOT evidence of anicini biscuits."
+    "notes": "Municipal source confirms buccellato with anise and raisins; NOT evidence of anicini biscuits.",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lucca%2C_piazza_san_michele%2C_negozio_taddeucci%2C_motto_buccellato.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lucca%2C_piazza_san_michele%2C_negozio_taddeucci%2C_motto_buccellato.jpg",
+    "imageCredit": "Sailko / Wikimedia Commons · CC BY 3.0",
+    "imageRightsStatus": "commons-licensed"
   },
   {
     "id": "lucca-da-giulio",

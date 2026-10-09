@@ -5,7 +5,11 @@
     "englishDescription": "Slow-cooked fourth stomach of cattle, often served in bread",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lampredotto_sandwich.JPG",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lampredotto_sandwich.JPG",
+    "imageCredit": "Wikimedia Commons contributors / Wikimedia Commons · CC license; see file page",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "trippa-alla-fiorentina",
@@ -13,7 +17,11 @@
     "englishDescription": "Tripe cooked with tomato sauce",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Trippa_alla_fiorentina.png",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Trippa_alla_fiorentina.png",
+    "imageCredit": "Susanna Giaccai / Wikimedia Commons · CC license; see file page",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "ribollita",
@@ -32,7 +40,11 @@
     "englishDescription": "Beef slow-cooked with black pepper and red wine",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Peposo.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Peposo.jpg",
+    "imageCredit": "Kent Wang / Wikimedia Commons · CC BY-SA 2.0",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "crostini-neri",
@@ -40,7 +52,11 @@
     "englishDescription": "Toasted bread with chicken-liver spread",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Crostini_Toscani.png",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Crostini_Toscani.png",
+    "imageCredit": "007007wiki / public domain",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "bistecca-alla-fiorentina",
@@ -48,7 +64,11 @@
     "englishDescription": "Florentine T-bone steak",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bistecca_alla_fiorentina.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bistecca_alla_fiorentina.jpg",
+    "imageCredit": "Microsoikos / Wikimedia Commons · CC license; see file page",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "pappardelle-al-cinghiale",
@@ -56,7 +76,11 @@
     "englishDescription": "Wide pasta with wild-boar ragù",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pappardelle_al_cinghiale_(cropped).jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pappardelle_al_cinghiale_(cropped).jpg",
+    "imageCredit": "Luistxo / Wikimedia Commons · CC license; see file page",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "pappa-al-pomodoro",
@@ -64,7 +88,11 @@
     "englishDescription": "Thick tomato and bread dish",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Pappa_al_pomodoro.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pappa_al_pomodoro.jpg",
+    "imageCredit": "fugzu / Wikimedia Commons · CC BY 2.0",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "schiacciata",
@@ -80,7 +108,11 @@
     "englishDescription": "Sweet grape bread",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tartas_varias_en_Florencia.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tartas_varias_en_Florencia.jpg",
+    "imageCredit": "El Mono Español / Wikimedia Commons",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "cantucci-e-vin-santo",
@@ -88,7 +120,11 @@
     "englishDescription": "Almond biscuits served with dessert wine",
     "region": "Florence",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Biscotti_-_cantucci.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Biscotti_-_cantucci.jpg",
+    "imageCredit": "Wikimedia Commons contributor VD / Wikimedia Commons · CC BY-SA 4.0",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "castagnaccio",
@@ -96,7 +132,11 @@
     "englishDescription": "Chestnut flour cake",
     "region": "Tuscany",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Castagnaccio*.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Castagnaccio*.jpg",
+    "imageCredit": "DinaBenedettoFerrandina / Wikimedia Commons · CC BY-SA",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "gelato",
@@ -104,7 +144,11 @@
     "englishDescription": "Italian frozen dessert",
     "region": "Tuscany",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gelato_in_Florence%2C_Italy.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Gelato_in_Florence%2C_Italy.jpg",
+    "imageCredit": "Sphilbrick / Wikimedia Commons · CC BY-SA 3.0",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "tordelli-lucchesi",
@@ -112,7 +156,11 @@
     "englishDescription": "Stuffed pasta commonly served with meat ragù",
     "region": "Lucca",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tordelli_al_rag%C3%B9.JPG",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tordelli_al_rag%C3%B9.JPG",
+    "imageCredit": "Wikimedia Commons contributor / Wikimedia Commons · CC license; see file page",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "buccellato",
@@ -120,7 +168,11 @@
     "englishDescription": "Sweet bread with anise and raisins",
     "region": "Lucca",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Buccellato_di_Lucca_Taddeucci_01.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Buccellato_di_Lucca_Taddeucci_01.jpg",
+    "imageCredit": "Wikimedia Commons contributor / Wikimedia Commons · CC license; see file page",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "zuppa-frantoiana",
@@ -144,7 +196,11 @@
     "englishDescription": "Spelt soup",
     "region": "Lucca",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Castel_del_Piano-Minestra_di_farro.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Castel_del_Piano-Minestra_di_farro.jpg",
+    "imageCredit": "Rinina25 & Twice25 / Wikimedia Commons · CC BY-SA 2.5",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "cioncia",
@@ -160,7 +216,11 @@
     "englishDescription": "Baked chickpea flour flatbread",
     "region": "Pisa",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Farinata_di_ceci.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:La_Farinata_di_ceci.jpg",
+    "imageCredit": "Wikimedia Commons contributor / Wikimedia Commons · CC license; see file page",
+    "imageRightsStatus": "commons-license-check"
   },
   {
     "id": "cinque-e-cinque",
