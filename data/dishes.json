@@ -233,7 +233,11 @@
     "englishDescription": "Cecina inside bread; strongly associated with Livorno",
     "region": "Livorno/Pisa",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/5_e_5.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:5_e_5.jpg",
+    "imageCredit": "Tomberys / Wikimedia Commons · CC BY-SA 4.0",
+    "imageRightsStatus": "commons-licensed"
   },
   {
     "id": "bordatino",
