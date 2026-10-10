@@ -160,17 +160,18 @@
     "address": "Via Isola delle Stinche 7r, Firenze",
     "name": "Vivoli",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-official",
     "dishCandidates": [
       "gelato"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification.",
+    "notes": "Seeded from travel selections; identity and menu details require source verification. Official site vivoli.it confirms family-run gelateria dal 1929/30 at Via Isola delle Stinche, Santa Croce.",
     "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gelataria_Vivoli%2C_Florence.jpg",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Gelataria_Vivoli%2C_Florence.jpg",
     "imageCredit": "Hein56didden / Wikimedia Commons · CC BY-SA 4.0",
     "imageRightsStatus": "commons-licensed",
     "latitude": 43.769939,
-    "longitude": 11.260106
+    "longitude": 11.260106,
+    "identitySourceUrl": "https://www.vivoli.it/"
   },
   {
     "id": "fi-tavolini",
