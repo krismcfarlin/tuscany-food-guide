@@ -785,5 +785,415 @@
         "foodId": null
       }
     ]
+  },
+  {
+    "placeId": "fi-casalinga",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "sourceType": "official-html",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-10",
+    "currency": "EUR",
+    "extractionMethod": "manual-official-html-text",
+    "items": [
+      {
+        "category": "Antipasti",
+        "name": "Crostini Toscani",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": "crostini-neri"
+      },
+      {
+        "category": "Antipasti",
+        "name": "Bruschetta al pomodoro",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Fettunta con fagioli",
+        "price": 7.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Tagliere salumi e pecorini 2 pax",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Prosciutto e mozzarella",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Antipasto misto toscano",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Lardo di Colonnata",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Insalata di rucola e Parmigiano",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Insalata di carciofi e Parmigiano",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Filetti di acciughe sott’olio",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Sbriciolona di Scarpaccia",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Ribollita",
+        "price": 9.5,
+        "priceUnit": "item",
+        "foodId": "ribollita"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Penne con ragù alla bolognese",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Ravioli burro e salvia",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Fusilloni al sugo di coniglio",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pasta e fagioli",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Ravioli al sugo di anatra",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Taglierini con pomodoro fresco",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Penne alla Boscaiola",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pappardelle al sugo di cinghiale",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": "pappardelle-al-cinghiale"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pappardelle al pesto di cavolo nero",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Trippa alla fiorentina",
+        "price": 12.5,
+        "priceUnit": "item",
+        "foodId": "trippa-alla-fiorentina"
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Fegato alla salvia",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Arista di maiale al forno",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Coniglio e patate arrosto",
+        "price": 15.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Baccalà alla livornese con ceci",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Peposo dell’Impruneta",
+        "price": 13.5,
+        "priceUnit": "item",
+        "foodId": "peposo"
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Guancia e lingua lessa con salsa verde",
+        "price": 15.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Lesso rifatto con cipolle",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Noce di vitella al forno con piselli",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Piatti della Graziella",
+        "name": "Frittata di spinaci",
+        "price": 12.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Pollo e patate arrosto",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Roast beef",
+        "price": 15.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Tagliata di manzo con rucola e grana",
+        "price": 25,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Bistecca alla fiorentina",
+        "price": 50,
+        "priceUnit": "kg",
+        "foodId": "bistecca-alla-fiorentina"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Carpaccio di bresaola",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Carpaccio di roast beef",
+        "price": 17,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Verdure saltate all’aglio e olio",
+        "price": 4,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Ceci all’olio",
+        "price": 4,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Patate arrosto",
+        "price": 4,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Fagioli bianchi",
+        "price": 4,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Insalata mista",
+        "price": 4.5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Insalatone e formaggi",
+        "name": "Insalata con tonno, fagioli e uovo",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Insalatone e formaggi",
+        "name": "Insalata caprese",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Insalatone e formaggi",
+        "name": "Tonno fagioli e cipolla",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Insalatone e formaggi",
+        "name": "Mozzarella di bufala",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Insalatone e formaggi",
+        "name": "Misto di pecorini con noci e miele",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Creme caramel",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Tiramisù",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Mattonella di gelato",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Gelato al limone con vodka",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Cantucci con vinsanto",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": "cantucci-e-vin-santo"
+      },
+      {
+        "category": "Dolci",
+        "name": "Plum Cake",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Crostata con marmellata fatta in casa",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Mele cotte con gelato",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Ananas al naturale",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Ananas al maraschino",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      }
+    ]
   }
 ]
