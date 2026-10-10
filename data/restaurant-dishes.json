@@ -38,38 +38,38 @@
   {
     "placeId": "fi-pino",
     "foodId": "schiacciata",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Le nostre schiacciate (The Best e altre schiacciate ripiene)",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.pinossandwiches.com/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official site: schiacciata is the house specialty since 1991; menu lists ~20 filled schiacciate (RICCHI €8, FANTASY €8.50)."
   },
   {
     "placeId": "fi-giorgio",
     "foodId": "bistecca-alla-fiorentina",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "Menù Bistecca Fiorentina (1 persona)",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoriadagiorgio.it/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Derived from captured official menu snapshot (Trattoria da Giorgio, retrieved 2026-10-09); price €35."
   },
   {
     "placeId": "fi-la-carraia",
     "foodId": "gelato",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "gelato artigianale",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.gelaterialacarraia.it/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official site: 'artigiani del gusto dal 1990'; gelati, torte gelato, semifreddi."
   },
   {
     "placeId": "fi-vivoli",
     "foodId": "gelato",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "gelato artigianale",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.vivoli.it/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official site: family gelateria since 1929/30 ('dal 1930 il vero gelato artigianale'). Product of the house; no specific flavour named."
   },
   {
     "placeId": "fi-zio-gigi",
@@ -574,5 +574,122 @@
     "sourceUrl": "https://www.cibotoday.it/citta/firenze/miglior-schiacciata-uva-firenze.html",
     "verifiedAt": "2026-10-10",
     "notes": "2023 contest winner per Cibododay article; third-party report, seasonal availability September-October."
+  },
+  {
+    "placeId": "lucca-osteria-baralla",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": "Bistecca di manzo alla “FIORENTINA” (min. 750 g)",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.osteriabaralla.it/menu/",
+    "verifiedAt": "2026-10-09",
+    "notes": "Derived from captured official menu snapshot (Osteria Baralla, retrieved 2026-10-09); price €56."
+  },
+  {
+    "placeId": "lucca-da-giulio",
+    "foodId": "pappa-al-pomodoro",
+    "menuName": "Pappa al pomodoro (solo periodo invernale)",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoriadagiulio.it/wp-content/uploads/2025/05/DA-GIULIO-Trattoria-Menu-mag2025_Def01g75533-r1.pdf",
+    "verifiedAt": "2026-10-09",
+    "notes": "Derived from captured official menu snapshot (Trattoria da Giulio, retrieved 2026-10-09); price €9."
+  },
+  {
+    "placeId": "lucca-da-giulio",
+    "foodId": "buccellato",
+    "menuName": "Biscotti, buccellato e Vin Santo della casa",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoriadagiulio.it/wp-content/uploads/2025/05/DA-GIULIO-Trattoria-Menu-mag2025_Def01g75533-r1.pdf",
+    "verifiedAt": "2026-10-09",
+    "notes": "Derived from captured official menu snapshot (Trattoria da Giulio, retrieved 2026-10-09); price €5."
+  },
+  {
+    "placeId": "fi-casalinga",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": "Bistecca alla fiorentina",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Derived from captured official menu snapshot (Trattoria La Casalinga, retrieved 2026-10-10); price €50."
+  },
+  {
+    "placeId": "fi-casalinga",
+    "foodId": "cantucci-e-vin-santo",
+    "menuName": "Cantucci con vinsanto",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://trattorialacasalinga.it/menu/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Derived from captured official menu snapshot (Trattoria La Casalinga, retrieved 2026-10-10); price €6."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "peposo",
+    "menuName": "Peposo fiorentino",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/wp-content/uploads/2026/03/menu_trattoria_lucchese.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Derived from captured official menu snapshot (Trattoria Lucchese, retrieved 2026-10-10); price €10."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "bistecca-alla-fiorentina",
+    "menuName": "Sua Maestà la Fiorentina (Garfagnana)",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/wp-content/uploads/2026/03/menu_trattoria_lucchese.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Derived from captured official menu snapshot (Trattoria Lucchese, retrieved 2026-10-10); price €50."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "torta-coi-becchi",
+    "menuName": "Torta di verdure",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.trattoria-lucchese.it/wp-content/uploads/2026/03/menu_trattoria_lucchese.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official March 2026 PDF lists 'Torta di verdure' (€6) in the torta section; the herb filling matches the torta coi becchi alle verdure family but the menu does not use the name 'becchi' — reported, not confirmed. Other torte on that menu (cioccolato, fichi e noci, ricotta) are distinct cakes, unmapped."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "gelato",
+    "menuName": "Gelato alla vaniglia del Madagascar",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/wp-content/uploads/2026/03/menu_trattoria_lucchese.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Derived from captured official menu snapshot (Trattoria Lucchese, retrieved 2026-10-10); price €6."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "cantucci-e-vin-santo",
+    "menuName": "Cantucci e Vin Santo",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/wp-content/uploads/2026/03/menu_trattoria_lucchese.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Derived from captured official menu snapshot (Trattoria Lucchese, retrieved 2026-10-10); price €6."
+  },
+  {
+    "placeId": "lucca-canuleia",
+    "foodId": "minestra-di-farro",
+    "menuName": "La Zuppa di Farro",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.canuleiatrattoria.it/wp-content/uploads/2026/09/Trattoria-Canuleia-Menu-Settembre2.jpg",
+    "verifiedAt": "2026-10-10",
+    "notes": "From official September 2026 menu image (OCR-checked against site), Primi piatti, €14."
+  },
+  {
+    "placeId": "lucca-canuleia",
+    "foodId": "tordelli-lucchesi",
+    "menuName": "Tortelli Lucchesi",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.canuleiatrattoria.it/wp-content/uploads/2026/09/Trattoria-Canuleia-Menu-Settembre2.jpg",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official Sept 2026 menu image, Primi piatti, €15; local spelling of tordelli lucchesi. Verify exact wording on paper menu when visiting."
+  },
+  {
+    "placeId": "lucca-canuleia",
+    "foodId": "cantucci-e-vin-santo",
+    "menuName": "CANTUCCI E VIN SANTO",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.canuleiatrattoria.it/wp-content/uploads/2026/09/Trattoria-Canuleia-Menu-Settembre-1.jpg",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official dessert menu image (Settembre 2026), €8."
   }
 ]

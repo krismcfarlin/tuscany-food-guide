@@ -501,7 +501,7 @@
     "identitySourceUrl": "https://ristorantelanorma.it/",
     "notes": "Sicilian-inspired Italian and seafood cooking. Nine-course tasting menu at €30/person is reported in restaurant listings and diner reviews; current availability and price should be reconfirmed. Published specialties include caponata, seafood and Sicilian cannoli. Dinner service; check hours before visiting.",
     "cuisine": "Sicilian / Seafood / Italian",
-    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0Nw7lJRvWKB9N7DekhdVpQUpXigE7JALLd0clKyps3iFw0BnnkKoMxqHJQV5-uJUa2R3LtIpQcAWfdF8flSX7UxeDEvC5bti2P-Fv1MGUnzYq5vgtOs9-93eAy5yNuXxFdnl1=s192-w192-h144-n-k-no",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0Nw7lJRvWKB9N7DekhdVpQUpXigE7JALLd0clKyps3iFw0BnnkKoMxqHJQV5-uJUa2R3LtIpQcAWfdF8flSX7UxeDEvC5bti2P-Fv1MGUnzYq5vgtOs9-93eAy5yNuXxFdnl1=w1200-h900-p-k-no",
     "imageSourceUrl": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Norma%20Lucca",
     "imageRightsStatus": "user-supplied-google-thumbnail-rights-unverified"
   },
@@ -513,8 +513,12 @@
     "origin": "suggested",
     "identityStatus": "verified-official",
     "identitySourceUrl": "https://www.osteria-isanti.com/it/",
-    "notes": "Official site and menu name Pisan tradition dishes; Bordatino is seasonal ('Solo in stagione').",
-    "cuisine": "Tuscan / Pisan"
+    "notes": "Official site and menu name Pisan tradition dishes; Bordatino is seasonal ('Solo in stagione'). Photograph from the restaurant's own website gallery; publication permission not confirmed.",
+    "cuisine": "Tuscan / Pisan",
+    "imageUrl": "https://www.osteria-isanti.com/images/gallery/01.jpg",
+    "imageSourceUrl": "https://www.osteria-isanti.com/it/gallery",
+    "imageCredit": "Osteria I Santi official website gallery",
+    "imageRightsStatus": "official-website-preview-permission-not-confirmed"
   },
   {
     "id": "fi-anticoforno-giglio",
@@ -524,8 +528,11 @@
     "origin": "suggested",
     "identityStatus": "verified-third-party",
     "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/article/la-schiacciata-con-luva-10-places-find-best-florence/",
-    "notes": "Bakery since ~1940s; named in a 'best schiacciata con l'uva in Florence' guide (Tiziana Cini article). Harvest-season dish.",
-    "cuisine": "Forno / bakery"
+    "notes": "Bakery since ~1940s; named in a 'best schiacciata con l'uva in Florence' guide (Tiziana Cini article). Harvest-season dish. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "cuisine": "Forno / bakery",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfT6ThQXALxUCxmbh-taAMhxAw5MAUA7FRydBTwsEuJBQvf_1Dz8LaNnS6-lkoQoXVDUVPGJJ1FD837RLuzg_Hx3RNw-QjaOZaoi0lfO1hPjSo8KPGiZuC6H8WiLtwUuzJmDn1BFiaaV65J=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Antico+Forno+Giglio/@43.7704563,11.272163,17z/data=!3m1!4b1!4m6!3m5!1s0x132a540b81f5c547:0x99d46937d71cee16!8m2!3d43.7704563!4d11.272163!16s%2Fg%2F1q4km4w58?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-ino-panino",
@@ -535,8 +542,12 @@
     "origin": "suggested",
     "identityStatus": "verified-official",
     "identitySourceUrl": "https://www.inofirenze.com/",
-    "notes": "Official site has a dedicated 'Schiacciata con l'uva' product page (harvest season).",
-    "cuisine": "Gastronomia / panini"
+    "notes": "Official site has a dedicated 'Schiacciata con l'uva' product page (harvest season). Schiacciata/sandwich photo from the shop's own website; publication permission not confirmed.",
+    "cuisine": "Gastronomia / panini",
+    "imageUrl": "https://www.inofirenze.com/wp-content/uploads/2026/03/Ino-Firenze002-1920x1920.jpg",
+    "imageSourceUrl": "https://www.inofirenze.com/",
+    "imageCredit": "Ino - Panino e Gastronomia official website",
+    "imageRightsStatus": "official-website-preview-permission-not-confirmed"
   },
   {
     "id": "fi-forno-becagli",
@@ -546,7 +557,10 @@
     "origin": "suggested",
     "identityStatus": "verified-third-party",
     "identitySourceUrl": "https://www.cibotoday.it/citta/firenze/miglior-schiacciata-uva-firenze.html",
-    "notes": "Won the 2023 'La miglior schiacciata con l'uva di Firenze' contest (Cibododay coverage); harvest-season dish.",
-    "cuisine": "Forno / bakery"
+    "notes": "Won the 2023 'La miglior schiacciata con l'uva di Firenze' contest (Cibododay coverage); harvest-season dish. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "cuisine": "Forno / bakery",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrRirGolOd1eyufnSkVJQKkHnGjDiXPMY2PLZ2vyzIvva83v75Y0v7eYrIny-uXOzKt11A5MHtdO_PDyBdndlIlDMLTkRCprVkOzHM8zWtX71BeuDyz-lNXHpWJyrGF9Zwa4mxirPjHMnC=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Forno+Becagli/@43.7731962,11.2446721,17z/data=!3m1!4b1!4m6!3m5!1s0x132a56ac740b618b:0x9f16821d0aaf0366!8m2!3d43.7731962!4d11.2446721!16s%2Fg%2F1tcvl625?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   }
 ]

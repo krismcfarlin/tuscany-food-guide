@@ -1588,21 +1588,21 @@
         "name": "Torta al cioccolato",
         "price": 6,
         "priceUnit": "item",
-        "foodId": "torta-coi-becchi"
+        "foodId": null
       },
       {
         "category": "Torte lucchesi con i becchi",
         "name": "Torta di fichi e noci",
         "price": 6,
         "priceUnit": "item",
-        "foodId": "torta-coi-becchi"
+        "foodId": null
       },
       {
         "category": "Torte lucchesi con i becchi",
         "name": "Torta di ricotta e cioccolato",
         "price": 6,
         "priceUnit": "item",
-        "foodId": "torta-coi-becchi"
+        "foodId": null
       },
       {
         "category": "Dolci",
@@ -1866,6 +1866,64 @@
         "price": 60,
         "priceUnit": "person",
         "foodId": null
+      }
+    ]
+  },
+  {
+    "placeId": "lucca-canuleia",
+    "sourceUrl": "https://www.canuleiatrattoria.it/wp-content/uploads/2026/09/Trattoria-Canuleia-Menu-Settembre2.jpg",
+    "retrievedAt": "2026-10-10",
+    "currency": "EUR",
+    "notes": "OCR of official September 2026 menu images on canuleiatrattoria.it; second page is desserts+wines.",
+    "items": [
+      {
+        "category": "Antipasti",
+        "name": "Golosità Canuleia",
+        "price": 16,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Strudel di zucca e porri su misticanza",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "La Zuppa di Farro",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": "minestra-di-farro"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Tortelli Lucchesi",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": "tordelli-lucchesi"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pappardelle del Pastificio Campofilone con ragù bianco di cortile, timo e olive",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Trancio di baccalà con verdure al forno e salsa alla puttanesca",
+        "price": 24,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Cantucci e Vin Santo",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": "cantucci-e-vin-santo"
       }
     ]
   }

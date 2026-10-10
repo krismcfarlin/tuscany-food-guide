@@ -198,7 +198,12 @@
     "englishDescription": "Traditional Lucchese tart",
     "region": "Lucca",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://www.buccellatotaddeucci.it/img/tad_prodotti_prodotti/41/TaddeucciTortaMandorle.jpg",
+    "imageSourceUrl": "https://www.buccellatotaddeucci.it/prodotti-dettaglio.php?id=41",
+    "imageCredit": "Buccellato Taddeucci (Pasticceria Taddeucci, Lucca) official product page",
+    "imageRightsStatus": "official-website-preview-permission-not-confirmed",
+    "imageNotes": "Product photo of Taddeucci's 'Torta Coi Becchi alle Mandorle'; the triangular pastry beaks along the rim are clearly visible. Publication permission not confirmed."
   },
   {
     "id": "minestra-di-farro",
