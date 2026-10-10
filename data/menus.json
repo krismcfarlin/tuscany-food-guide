@@ -445,5 +445,345 @@
         "foodId": null
       }
     ]
+  },
+  {
+    "placeId": "fi-zio-gigi",
+    "sourceUrl": "https://www.ziogigi.it/menu-cucina",
+    "sourceType": "official-html",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-10",
+    "currency": "EUR",
+    "extractionMethod": "manual-official-html-text",
+    "items": [
+      {
+        "category": "Antipasti",
+        "name": "Tagliere misto dello Zio (per 2 persone)",
+        "price": 20,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Prosciutto crudo, coccoli e stracchino",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Antipasto Zio Gigi",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Crostini misti arcobaleno e pecorino",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Prosciutto, bruschetta e mozzarella",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Bruschetta, pecorino e pomodori secchi",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Carpaccio di bresaola, rucola, parmigiano",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Carpaccio di tonno",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Insalata di gamberetti, rucola e fagioli",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Formaggio misto",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Insalata caprese",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pici alle Polpettine della Nonna",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Paccheri al ragù bianco con crema di tartufo",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Pappardelle al cinghiale",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": "pappardelle-al-cinghiale"
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Spaghetti alla carbonara",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Tagliatelle ai porcini",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Maltagliati ricotta, rigatino e porcini",
+        "price": 13,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Linguine al pesto di fave",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Penne alla Norcia",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Penne senza glutine (salsa a scelta)",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Penne melanzane e scamorza",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Spaghetti pomodoro o ragù",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Tortellini panna, prosciutto e funghi",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Risotto zucchine e gamberetti",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Linguine alle cozze",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Ribollita toscana o Minestrone",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Spezzatino di manzo peposo alla Fiorentina",
+        "price": 16,
+        "priceUnit": "item",
+        "foodId": "peposo"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Entrecôte di scottona alla griglia",
+        "price": 22,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Bistecca alla Fiorentina (min. 500 g)",
+        "price": 5,
+        "priceUnit": "100g",
+        "foodId": "bistecca-alla-fiorentina"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Tagliata di manzo con rucola e parmigiano",
+        "price": 22,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Filetto allo Zio Gigi rucola e funghi",
+        "price": 28,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Filetto al pepe verde",
+        "price": 25,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Trancio di salmone alla griglia",
+        "price": 16,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Trippa alla Fiorentina",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": "trippa-alla-fiorentina"
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Pollo al mattone",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Tagliata di pollo rucola e parmigiano",
+        "price": 14,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Lombatina di vitella alla griglia",
+        "price": 22,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Bistecchina di suino alla griglia",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Fettina di vitellone aromatizzata",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Ciambotta di melanzane e peperoni",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Insalata di pomodori",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Pomodori secchi",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Insalata mista",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Fagioli all'olio",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Spinaci saltati A.O.P.",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Melanzane grigliate",
+        "price": 7,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Patate arrosto",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      }
+    ]
   }
 ]
