@@ -393,8 +393,12 @@
     "origin": "suggested",
     "identityStatus": "verified-source",
     "identitySourceUrl": "https://www.osteriasangiorgio.com/contact/",
-    "dishCandidates": [],
-    "notes": "Official contact page verifies restaurant and address; specific dishes need research."
+    "dishCandidates": [
+      "tordelli-lucchesi",
+      "zuppa-frantoiana",
+      "bistecca-alla-fiorentina"
+    ],
+    "notes": "Official site verifies address and Tuscan cuisine, including Fiorentina steak; customer testimonial on the official homepage describes tortelli lucchesi and zuppa frantoiana (testimonial evidence, not confirmed current menu). Official site also contains obvious English demo-menu filler; do not treat those placeholder prices as real. Photos have no confirmed reuse license."
   },
   {
     "id": "lucca-miranda",
@@ -402,10 +406,10 @@
     "address": "Via dei Carrozzieri 27, 55100 Lucca",
     "name": "Osteria Miranda",
     "origin": "suggested",
-    "identityStatus": "verified-source",
+    "identityStatus": "verified-official",
     "identitySourceUrl": "https://www.osteriamiranda.it/la-carta/",
     "dishCandidates": [],
-    "notes": "Modern seasonal Tuscan restaurant; official current menu reviewed but no direct canonical dictionary match."
+    "notes": "Official seasonal menu (changes about six times yearly) provides published prices, transcribed into a dated snapshot. Modern local seasonal cuisine; no canonical Tuscan dish match asserted. Official photographs not reused without permission."
   },
   {
     "id": "lucca-da-quartuccio",
@@ -413,10 +417,13 @@
     "address": "Piazza Bernardini 7, 55100 Lucca",
     "name": "Da Quartuccio Osteria",
     "origin": "suggested",
-    "identityStatus": "verified-business-listing",
-    "identitySourceUrl": null,
-    "dishCandidates": [],
-    "notes": "Restaurant identity and address from business listing; menu research pending."
+    "identityStatus": "verified-official-and-third-party",
+    "identitySourceUrl": "https://daquartucciolucca.eatbu.com/?lang=it",
+    "dishCandidates": [
+      "tordelli-lucchesi",
+      "bistecca-alla-fiorentina"
+    ],
+    "notes": "Restaurant-operated Eatbu page confirms Piazza Bernardini 7, Lucca and contact. Independent Lucca listing identifies tortelli lucchesi and Fiorentina steak as specialties, plus mushroom and truffle dishes. No trustworthy priced menu or licensed photo verified."
   },
   {
     "id": "lucca-la-norma",
