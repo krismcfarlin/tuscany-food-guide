@@ -185,7 +185,12 @@
     "englishDescription": "Bean and vegetable soup",
     "region": "Lucca",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://live.staticflickr.com/3043/2906168239_cbdb05f7f9_b.jpg",
+    "imageSourceUrl": "https://www.flickr.com/photos/70253321@N00/2906168239",
+    "imageCredit": "fugzu / Flickr · CC BY 2.0",
+    "imageRightsStatus": "flickr-cc-by-representative-cavolo-nero-soup",
+    "imageNotes": "Flickr CC BY photo titled 'zuppa con cavolo nero'; representative of frantoiana-style Tuscan black-kale soup."
   },
   {
     "id": "torta-coi-becchi",
@@ -213,7 +218,12 @@
     "englishDescription": "Traditional slow-cooked beef offal dish",
     "region": "Lucca",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://live.staticflickr.com/65535/52239221128_093b9e742b_b.jpg",
+    "imageSourceUrl": "https://www.flickr.com/photos/126110866@N08/52239221128",
+    "imageCredit": "larrywkoester / Flickr · CC BY 2.0",
+    "imageRightsStatus": "flickr-cc-by-representative-braised-wild-boar",
+    "imageNotes": "No cioncia-specific image found in free-licensed sources; CC BY braised wild boar (brasato di cinghiale) used as close relative of the Maremma cioncia."
   },
   {
     "id": "cecina",
@@ -245,7 +255,12 @@
     "englishDescription": "Thick soup with cornmeal, beans and greens",
     "region": "Pisa",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://live.staticflickr.com/3148/2907013504_9d9a82cfc1_b.jpg",
+    "imageSourceUrl": "https://www.flickr.com/photos/70253321@N00/2907013504",
+    "imageCredit": "fugzu / Flickr · CC BY 2.0",
+    "imageRightsStatus": "flickr-cc-by-representative-cavolo-nero-soup",
+    "imageNotes": "No bordatino-specific free-licensed photo found; CC BY 'zuppa con cavolo nero' used as representative (bordatino is a Pisano black-kale-and-bean soup, like frantoiana)."
   },
   {
     "id": "torta-co-bischeri",
@@ -253,7 +268,12 @@
     "englishDescription": "Rice, chocolate, nut and raisin tart",
     "region": "Pisa",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://live.staticflickr.com/6041/5876745691_7fe5b65912_b.jpg",
+    "imageSourceUrl": "https://www.flickr.com/photos/39683831@N06/5876745691",
+    "imageCredit": "ivoriccio / Flickr · CC BY-NC-SA 2.0",
+    "imageRightsStatus": "flickr-ncsa-name-matched-review-needed",
+    "imageNotes": "Photo titled 'Torta co\\' bischeri' (exact dish); NC-SA license — non-commercial use with attribution; site is a personal vacation guide."
   },
   {
     "id": "baccala-coi-porri",
@@ -261,7 +281,12 @@
     "englishDescription": "Salt cod with leeks",
     "region": "Pisa",
     "aliases": [],
-    "mustTry": true
+    "mustTry": true,
+    "imageUrl": "https://live.staticflickr.com/7060/6882125479_a8e1b98446_b.jpg",
+    "imageSourceUrl": "https://www.flickr.com/photos/8941244@N02/6882125479",
+    "imageCredit": "chefpercaso / Flickr · CC BY-NC 2.0",
+    "imageRightsStatus": "flickr-nc-representative-baccala-leek-dish",
+    "imageNotes": "Photo titled 'Baccalà al vapore con polenta bianca al tartufo nero e porri croccanti' — a baccalà+leek dish, representative, not the rustic Lucchese preparation."
   },
   {
     "id": "anicini",

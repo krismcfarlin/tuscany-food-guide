@@ -7,8 +7,11 @@
     "origin": "original",
     "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "Business description explicitly mentions classic 5e5 in bread; Just Eat lists Focaccia con Cecina.",
-    "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187899-d12404690-Reviews-Mickey_s_cecineria-Pisa_Province_of_Pisa_Tuscany.html"
+    "notes": "Business description explicitly mentions classic 5e5 in bread; Just Eat lists Focaccia con Cecina. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187899-d12404690-Reviews-Mickey_s_cecineria-Pisa_Province_of_Pisa_Tuscany.html",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TMr-rk4Im2Zv2wlcI-4IOq2-R0_GKDonkxPNXqVWZrNoBtbeuqRiKLZz3YEMLPl3FQbZB-202ZNPbNGsctp2bajpHp4wB8yE6eTFpihYJ6_s4sxYULB4pIKzSBXkHZkWrUcaA=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Mickey's+cecineria/@43.7143697,10.4025382,17z/data=!3m1!4b1!4m6!3m5!1s0x12d59112286bec97:0x55f1334ca64132b5!8m2!3d43.7143697!4d10.4025382!16s%2Fg%2F11c606mgx6?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "pisa-il-montino",
@@ -35,8 +38,11 @@
     "origin": "original",
     "identityStatus": "verified-official-and-third-party",
     "dishCandidates": [],
-    "notes": "Official site confirms schiacciate and rosette; address corroborated by Tripadvisor. An alternate business listing uses Panino!, so verify storefront signage.",
-    "identitySourceUrl": "https://www.panimopisa.it/"
+    "notes": "Official site confirms schiacciate and rosette; address corroborated by Tripadvisor. An alternate business listing uses Panino!, so verify storefront signage. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed. Photograph shows Panimo's sister location at Via Cavalca 68, Pisa (Google listing hero photo); the Piazza Martiri 29 storefront photo is still missing.",
+    "identitySourceUrl": "https://www.panimopisa.it/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SQ-N8XHI4I-l5IOc2azB-nbexEDYBUPlg5Ehckd3xActkV7Lm_v--svQ2IzTKSuuXgxUo1D_Sa6sBlRQe5USY9Nr7eLaie1rDSdfApcqdkqXp2kna14ZUgoQmwyHq-47P17LmOgDoBjbtB=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Panimo/@43.717753,10.399955,17z/data=!3m1!4b1!4m6!3m5!1s0x12d5913321007037:0x4b79d901349c2fc3!8m2!3d43.717753!4d10.399955!16s%2Fg%2F11t9sk1z7s?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-trippa-pollini",
@@ -49,7 +55,10 @@
       "lampredotto",
       "trippa-alla-fiorentina"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Seeded from travel selections; identity and menu details require source verification. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8bKJ57qJTqxFWfcB6G9guguBX4ZNoe7QgFtbWgdAndivwGNSvZO6C_UjhpmhHv20BXYPh9G0epn2j_wU6p_N6bG1hfRAjPdwgNBwoDv3VQoq7FH1iM3gvLgYginZ_UmmW92mD=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Sergio+Pollini+Lampredotto+sandwhiches/@43.7713471,11.266461,17z/data=!3m1!4b1!4m6!3m5!1s0x132a540f2a607f51:0x9a2973d8f44d69a4!8m2!3d43.7713471!4d11.266461!16s%2Fg%2F11bw21mk6_?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-cimatori",
@@ -59,8 +68,11 @@
     "origin": "original",
     "identityStatus": "verified-official",
     "dishCandidates": [],
-    "notes": "The Marchetti family's lampredotto/trippa stall in Piazza de' Cimatori. Official website contains restaurant and food galleries; reuse permission not confirmed.",
-    "identitySourceUrl": "https://www.lanticotrippaio.com/"
+    "notes": "The Marchetti family's lampredotto/trippa stall in Piazza de' Cimatori. Official website contains restaurant and food galleries; reuse permission not confirmed. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.lanticotrippaio.com/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TcdQCFQgcj2dul_uAjH2A95sAQWI54LXzzFc4GmTOleJ0MjM-BGXM47VYQd_FxWQxDecoWFHFEI_1E6L49DRdowLZ1KOBxfla37jBMN1UIe1IWpcNNz5lX2LtYQr4zqxD63NS5=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/L%E2%80%99Antico+Trippaio/@43.7709585,11.256221,17z/data=!3m1!4b1!4m6!3m5!1s0x132a540110b25647:0xe462259650f5a6d6!8m2!3d43.7709585!4d11.256221!16s%2Fg%2F1thlk9lb?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-pino",
@@ -72,8 +84,11 @@
     "dishCandidates": [
       "schiacciata"
     ],
-    "notes": "Family-run schiacciata sandwich shop since 1991, at Salumeria Verdi (established 1965). Official website confirms menu and address; image permissions not confirmed.",
-    "identitySourceUrl": "https://www.pinossandwiches.com/"
+    "notes": "Family-run schiacciata sandwich shop since 1991, at Salumeria Verdi (established 1965). Official website confirms menu and address; image permissions not confirmed. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.pinossandwiches.com/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tqa1GmWt88lkuEojfd9ujKAOmLmRpL61XX7k4YBZz4duniof36NNuzrkTttEZmln5_KAf5p-BjpysWxPMV6bPTH72Hj-E8q0RsYq-iFRlAlXECvcmx2_EmwPBhr8HxDVGG5uU_5z08fACQ=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Pino's+Sandwiches+-+Salumeria+Verdi/@43.7704566,11.2618382,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5406432033cb:0x14df15cc49b4335!8m2!3d43.7704566!4d11.2618382!16s%2Fg%2F11b6gr053c?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-giorgio",
@@ -85,8 +100,11 @@
     "dishCandidates": [
       "bistecca-alla-fiorentina"
     ],
-    "notes": "Family-run since 1974. Official site publishes fixed-price lunch/dinner menus and a daily-changing selection; no photograph licensed for reuse yet.",
-    "identitySourceUrl": "https://www.trattoriadagiorgio.it/"
+    "notes": "Family-run since 1974. Official site publishes fixed-price lunch/dinner menus and a daily-changing selection; no photograph licensed for reuse yet. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.trattoriadagiorgio.it/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q4leS8uiJNoUagy2Xx1cM21OqaXW85rVP-5W9caaCA3zvlprEtjZwh_1HYoonYAPe9sOF8YwYRRmpyRvk_c0NKR73y8Nm_RUvOs3TZvM28tAD3-DPdwj7vuv7lS7uAH0f6T5k1=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+da+Giorgio/@43.773943,11.2461027,17z/data=!3m1!4b1!4m6!3m5!1s0x132a56ae5f3a08c5:0x46b23d7db636e438!8m2!3d43.773943!4d11.2461027!16s%2Fg%2F1v3vdj09?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-gelateria-neri",
@@ -96,8 +114,11 @@
     "origin": "original",
     "identityStatus": "verified-business-listing",
     "dishCandidates": [],
-    "notes": "Gelateria at Via dei Neri 9/11R. Third-party listings and galleries show the storefront and gelato, but no photograph licensed for reuse has been confirmed.",
-    "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187895-d2075392-Reviews-Gelateria_dei_Neri-Florence_Tuscany.html"
+    "notes": "Gelateria at Via dei Neri 9/11R. Third-party listings and galleries show the storefront and gelato, but no photograph licensed for reuse has been confirmed. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187895-d2075392-Reviews-Gelateria_dei_Neri-Florence_Tuscany.html",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RmDd5pXULF_NJT_dkyWr6qVwOb7QGCaykcPVqsgTEGlgkn0hnPOYX0MvMPXoi-uLkHUF1On-doIG_J-_tmItkYKicoN_akpbQZogvtuQOjTb3iAr7oBjusUySj1dpWi3DQQtgk=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Gelateria+dei+Neri/@43.7677669,11.2590689,17z/data=!3m1!4b1!4m6!3m5!1s0x132a54074cd0d53b:0x4d9a35023cb28f32!8m2!3d43.7677669!4d11.2590689!16s%2Fg%2F1tgd8n1j?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-la-carraia",
@@ -109,8 +130,11 @@
     "dishCandidates": [
       "gelato"
     ],
-    "notes": "Official site confirms gelateria established 1990 at Piazza Nazario Sauro 25/r; official photo galleries exist, but reuse permission not confirmed.",
-    "identitySourceUrl": "https://www.gelaterialacarraia.it/"
+    "notes": "Official site confirms gelateria established 1990 at Piazza Nazario Sauro 25/r; official photo galleries exist, but reuse permission not confirmed. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.gelaterialacarraia.it/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RP93MdOelVuTCciFlEdOyM_3Eg69eN7h7h9mbLUp8JfGXS5s09kmvLI0fiNN_qq7AwvrqFhTIdabZwF0ys3hKHt_DgK601g9nLmOzoBLnFVunINcMhHRdBosrpYDpAAPRREFiWiA=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Gelateria+La+Carraia/@43.7696107,11.2466647,17z/data=!3m1!4b1!4m6!3m5!1s0x132a56ab5fc3c57d:0xb1b312c28b2057b3!8m2!3d43.7696107!4d11.2466647!16s%2Fg%2F1yg4fc97q?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-vivoli",
@@ -136,8 +160,11 @@
     "origin": "original",
     "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "Restaurant listing and 2025 TheFork menu are historical; current menu and venue photo reuse rights remain unverified.",
-    "identitySourceUrl": "https://www.thefork.it/ristorante/osteria-la-dolce-vita-r755610/menu"
+    "notes": "Restaurant listing and 2025 TheFork menu are historical; current menu and venue photo reuse rights remain unverified. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.thefork.it/ristorante/osteria-la-dolce-vita-r755610/menu",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTre2LoX7s_cgMBsDA3RMikxXAt3l7oGexkAAqZDS3cMTd-KnQMsOtrEEM_m4wXiiqdHrqJM0bqAK-xr32L1FpzNHv7C_jfZUtB4MsPSWxvSYRNsklamUJ7UJ3Yu75_s5DIGXdXg=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Osteria+La+Dolce+Vita+Firenze/@43.7708206,11.2559254,17z/data=!3m1!4b1!4m6!3m5!1s0x132a55f7736b12d9:0xf75209aa0f9037e3!8m2!3d43.7708206!4d11.2559254!16s%2Fg%2F11kjlwm0lm?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-zio-gigi",
@@ -150,8 +177,11 @@
       "pappardelle-al-cinghiale",
       "bistecca-alla-fiorentina"
     ],
-    "notes": "Official restaurant website confirms Via Folco Portinari 7, Florence. Daily lunch menu changes; published dinner menu is separately captured with source and prices. Restaurant photo reuse permission not confirmed.",
-    "identitySourceUrl": "https://www.ziogigi.it/contatti"
+    "notes": "Official restaurant website confirms Via Folco Portinari 7, Florence. Daily lunch menu changes; published dinner menu is separately captured with source and prices. Restaurant photo reuse permission not confirmed. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.ziogigi.it/contatti",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SIrM70JZoGCrQM-HI8Y8ifQ8kAWoRTrxVjLVKlxG1LDC4T9JpC9DxqCab5Gd23LFJ0sSRWpxnYtdovSaNxsmKmw2CT_E747QtcNDdbsF35_WbdC4KZaurzydvmVWASBoQbLQ6J=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Osteria+Zio+Gigi/@43.772648,11.2590838,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5404174df8fd:0x4a8ddf10183fbd83!8m2!3d43.772648!4d11.2590838!16s%2Fg%2F1tj4q1ld?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-arte-dory",
@@ -168,7 +198,10 @@
       "bistecca-alla-fiorentina",
       "cantucci-e-vin-santo"
     ],
-    "notes": "Restaurant confirmed at Via dei Serragli 78R. Photos visible on business listings but reuse rights not verified; prior dish candidates remain unverified."
+    "notes": "Restaurant confirmed at Via dei Serragli 78R. Photos visible on business listings but reuse rights not verified; prior dish candidates remain unverified. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Texgcjd7de2VUrfuRjfrGXcb43bq0ZIJDqtLiIOTl7QWihbGzJmovpfKcA752hwaanQ3UFudyVbRVE1HdEO-L-ify-vr2GDapIYjFYZW2l5-P7neJUJJD3Vhib9YqjmF3c8d6v=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/L'Arte+di+Dory+-+Cucina+Casalinga+in+Oltrarno/@43.7667101,11.2451245,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5108b1adb155:0x6dc787c34e34dc9b!8m2!3d43.7667101!4d11.2451245!16s%2Fg%2F11gkbwj1_t?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-roberto",
@@ -178,7 +211,10 @@
     "origin": "original",
     "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "Verified restaurant listing at Via dei Castellani 4r near the Uffizi; photographs available on listings but reuse permission unverified."
+    "notes": "Verified restaurant listing at Via dei Castellani 4r near the Uffizi; photographs available on listings but reuse permission unverified. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SHHL4tPBzfiSvdNwdZRnja8OrS_Ums8zmzrkW0pIIbEoREBVrAZW7-eoycwdMwhL1critgv3njBN_5QRMD-z5oAV4MZ60QWeQU1EoCrkEH0kISgcqYYDZTRNpZEfS4jzWlxQRG6CfCF2oP=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+Roberto+dal+1973/@43.7679457,11.2562951,17z/data=!3m1!4b1!4m6!3m5!1s0x132a54009bee6611:0x819171843a8606f!8m2!3d43.7679457!4d11.2562951!16s%2Fg%2F12mkvn8zs?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-casalinga",
@@ -194,8 +230,11 @@
       "pappardelle-al-cinghiale",
       "crostini-neri"
     ],
-    "notes": "Family-run since 1963. Official restaurant website verifies Via dei Michelozzi 9/R, seasonal daily specials, full menu with prices and gallery. Images not republished without verified rights.",
-    "identitySourceUrl": "https://trattorialacasalinga.it/"
+    "notes": "Family-run since 1963. Official restaurant website verifies Via dei Michelozzi 9/R, seasonal daily specials, full menu with prices and gallery. Images not republished without verified rights. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://trattorialacasalinga.it/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9_EnVpqPjHEwJc-vCBC4nOtU-gaJNct4MVP97zLJ4E26PINHx-1ZmgQ8Sm78MCm-s2Geoifvd0239sBmRNqZPImkSBlLioduzLILUjZFZ60G0fZCTW3kqDJ-qs4z7hYj29aifrEJ-YaoR=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+La+Casalinga/@43.7666212,11.2484849,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5154fe0d9f9b:0x129c18e04a73fd18!8m2!3d43.7666212!4d11.2484849!16s%2Fg%2F1td8mqtj?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-brindellone",
@@ -211,7 +250,10 @@
       "trippa-alla-fiorentina",
       "peposo"
     ],
-    "notes": "Trattoria I'Brindellone at Piazza Piattellina 10; seeded food associations and photo reuse rights remain unverified."
+    "notes": "Trattoria I'Brindellone at Piazza Piattellina 10; seeded food associations and photo reuse rights remain unverified. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrH03mYFD3j0Fr4gJHixYZnIbw5-K8fTWMFSnxILi2ZIXc1aY3K5Y3HavTg8-sfc3xHq7BcxSrlkuhg_6WzVhCWQIXzr5iVab6ARRQ-GVvoTGfZ1yWfjYnx2bfQsPGOGoOVh_8Xw=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/I%E2%80%99Brindellone/@43.768651,11.242877,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5152cc0c32fb:0xdf48ed61839dfa17!8m2!3d43.768651!4d11.242877!16s%2Fg%2F1tdqwzch?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-sergio-gozzi",
@@ -227,8 +269,11 @@
       "ribollita",
       "pappa-al-pomodoro"
     ],
-    "notes": "Historic Tuscan lunch trattoria at Piazza San Lorenzo 8R. Independent Florence restaurant profile confirms specialties including peposo, trippa, ribollita and seasonal pappa al pomodoro; menu prices and photo rights not verified.",
-    "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/place/trattoria-sergio-gozzi/"
+    "notes": "Historic Tuscan lunch trattoria at Piazza San Lorenzo 8R. Independent Florence restaurant profile confirms specialties including peposo, trippa, ribollita and seasonal pappa al pomodoro; menu prices and photo rights not verified. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/place/trattoria-sergio-gozzi/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RbzHrL6q8W7KEirGJqs8wbE0fyN6ohWqUDoCeFRK_v6vxMfOH2WaNv87YO6j1v3o5xkOAndp3XZ8crvgwtwUSVjYWGX8yG5wEmXpqmtj97TAM5hyTcERqU2Jcu0Gjr99dNwjEpdoQDk6Hm=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+Sergio+Gozzi/@43.7753427,11.2543165,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5402ff9bffe9:0x65112528b7990c5e!8m2!3d43.7753427!4d11.2543165!16s%2Fg%2F1tdhx86d?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "fi-mario",
@@ -243,8 +288,11 @@
       "peposo",
       "lampredotto"
     ],
-    "notes": "Family-run Tuscan trattoria since 1953 at Via Rosina 2r. Regional guide confirms ribollita, Fiorentina steak, peposo and lampredotto; menu varies daily, and restaurant photos have no confirmed reuse rights.",
-    "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/place/trattoria-mario/"
+    "notes": "Family-run Tuscan trattoria since 1953 at Via Rosina 2r. Regional guide confirms ribollita, Fiorentina steak, peposo and lampredotto; menu varies daily, and restaurant photos have no confirmed reuse rights. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/place/trattoria-mario/",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QWUsw_xq_xG-ojWkGpkGUiiH-3aQYf5VOIuGJc624RxeSe_ApNcxs06-HBWo06egWHpVMKAJOCV_J2dgAkZGp9Fk53PON_0PaxE2tjWYbDXsoEZjtpCXuXnqSysV-9GdBdO-ef=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+Mario/@43.7765605,11.2545811,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5402d0f28403:0xeda5a5dd39075e37!8m2!3d43.7765605!4d11.2545811!16s%2Fg%2F1td22p9d?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "lucca-osteria-baralla",
@@ -344,7 +392,10 @@
       "torta-coi-becchi",
       "bistecca-alla-fiorentina"
     ],
-    "notes": "Official 2026 PDF menu confirms tordelli lucchesi, zuppa di farro, zuppa frantoiana, cioncia, peposo, Fiorentina steak and Lucca becchi cakes. Prices captured separately with PDF provenance; photos on official website not licensed for reuse."
+    "notes": "Official 2026 PDF menu confirms tordelli lucchesi, zuppa di farro, zuppa frantoiana, cioncia, peposo, Fiorentina steak and Lucca becchi cakes. Prices captured separately with PDF provenance; photos on official website not licensed for reuse. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SVhvzwiuNBGqV_vmtekt6ZN_m8ih-Si46S2jFrOi2JQCon88tDTRzRgWasilgfP1A-vyDHBpj_men22WlyCp3kaUUbttSXc1XdG5AW4S_mhGWiHO1uchvIqiFutFtTIkC_NYsl4q82mus=w1600-h1200-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/search/Trattoria+Lucchese+Via+Santa+Croce+285+Lucca/@43.8435036,10.5034893,16z/data=!3m1!4b1?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "lucca-canuleia",
@@ -355,7 +406,10 @@
     "identityStatus": "verified-source",
     "identitySourceUrl": "https://www.canuleiatrattoria.it/homepage/il-nostro-menu/",
     "dishCandidates": [],
-    "notes": "Official site lists 2026 menu as images, not accessible as reliable text; no prices copied without transcription verification. Gallery photos have no confirmed reuse rights."
+    "notes": "Official site lists 2026 menu as images, not accessible as reliable text; no prices copied without transcription verification. Gallery photos have no confirmed reuse rights. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0TR-3G_BiUENTI80V-afkBGvbQ8lDjvQnGT9GaUh6tJyf2KdYiUBRmyniNdRhin8EgN9GKy6cIxayg4dtSvsaqLfM3kI2W-BWr1CCOaT0qodChkxGHX11LYKI01-NFhKXHQszo8__ApI=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+Canuleia/@43.8450008,10.5068806,17z/data=!3m1!4b1!4m6!3m5!1s0x12d5838cb3b711b9:0x3864eb227c9fc064!8m2!3d43.8450008!4d10.5068806!16s%2Fg%2F1tgfsv80?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "lucca-da-leo",
@@ -366,7 +420,10 @@
     "identityStatus": "verified-source",
     "identitySourceUrl": "https://trattoriadaleo.webnode.it/",
     "dishCandidates": [],
-    "notes": "The trattoriadaleo.it site contains apparent placeholder text, incorrect Milan address and casino link; do not use it for venue facts. Alternate history/menu site (trattoriadaleo.webnode.it) describes family history and prices, but age and ownership of content need verification. No image reused."
+    "notes": "The trattoriadaleo.it site contains apparent placeholder text, incorrect Milan address and casino link; do not use it for venue facts. Alternate history/menu site (trattoriadaleo.webnode.it) describes family history and prices, but age and ownership of content need verification. No image reused. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWIt17i8QVzUEr0T1M2z7OP7qwAo0QPwVEYZJ3xxYMFFUibuZiPwDJZSKPiLXtKpT1Ggkj0Fk39egroSuSlWnC-9Yt40M66EI8lM_eGucpnR9I6n8IQcQZEyoiuzl7KeRv0aOBbmfjM10=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+da+Leo/@43.8442552,10.5022927,17z/data=!3m1!4b1!4m6!3m5!1s0x12d5838bf0c9630f:0xdcbe39c3089bff2d!8m2!3d43.8442552!4d10.5022927!16s%2Fg%2F1tglcy7p?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "lucca-gigi",
@@ -398,7 +455,10 @@
       "zuppa-frantoiana",
       "bistecca-alla-fiorentina"
     ],
-    "notes": "Official site verifies address and Tuscan cuisine, including Fiorentina steak; customer testimonial on the official homepage describes tortelli lucchesi and zuppa frantoiana (testimonial evidence, not confirmed current menu). Official site also contains obvious English demo-menu filler; do not treat those placeholder prices as real. Photos have no confirmed reuse license."
+    "notes": "Official site verifies address and Tuscan cuisine, including Fiorentina steak; customer testimonial on the official homepage describes tortelli lucchesi and zuppa frantoiana (testimonial evidence, not confirmed current menu). Official site also contains obvious English demo-menu filler; do not treat those placeholder prices as real. Photos have no confirmed reuse license. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLehX42de-nvagy89CnGPyQxrcMD09kOsNfI27NdOZ8uOIOJli__idvmPRw7NINRCzOczt6oJ9YCKIGNlH9Qqp1KI6Hp5-6wyfTmIvNTWIfMG4_lgSgZcOqoSYDUNjeHgAgit20B=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Osteria+San+Giorgio/@43.8449483,10.5035527,17z/data=!3m1!4b1!4m6!3m5!1s0x12d5838c70cabec7:0xfa7200f4aa0446f0!8m2!3d43.8449483!4d10.5035527!16s%2Fg%2F1v3hx5dv?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "lucca-miranda",
@@ -409,7 +469,10 @@
     "identityStatus": "verified-official",
     "identitySourceUrl": "https://www.osteriamiranda.it/la-carta/",
     "dishCandidates": [],
-    "notes": "Official seasonal menu (changes about six times yearly) provides published prices, transcribed into a dated snapshot. Modern local seasonal cuisine; no canonical Tuscan dish match asserted. Official photographs not reused without permission."
+    "notes": "Official seasonal menu (changes about six times yearly) provides published prices, transcribed into a dated snapshot. Modern local seasonal cuisine; no canonical Tuscan dish match asserted. Official photographs not reused without permission. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIy7pMKUp3Xgxt9BucTKYDABImyNGTmI80CIS-D0OeHbV5qJeTabVBIGt16mMZMFcL5XEQtLOlGkcwQdEDq_66cMlfBOD_9FAoGe_2zgtSb1Iri9Jukz51KR8ba8k24ynumulCgbRhTnI=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Miranda/@43.8472222,10.5061111,17z/data=!3m1!4b1!4m6!3m5!1s0x12d5838d3adcdbc7:0xc5fac094d01984f5!8m2!3d43.8472222!4d10.5061111!16s%2Fg%2F1w8g3952?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "lucca-da-quartuccio",
@@ -423,7 +486,10 @@
       "tordelli-lucchesi",
       "bistecca-alla-fiorentina"
     ],
-    "notes": "Restaurant-operated Eatbu page confirms Piazza Bernardini 7, Lucca and contact. Independent Lucca listing identifies tortelli lucchesi and Fiorentina steak as specialties, plus mushroom and truffle dishes. No trustworthy priced menu or licensed photo verified."
+    "notes": "Restaurant-operated Eatbu page confirms Piazza Bernardini 7, Lucca and contact. Independent Lucca listing identifies tortelli lucchesi and Fiorentina steak as specialties, plus mushroom and truffle dishes. No trustworthy priced menu or licensed photo verified. Venue photograph hotlinked from its Google Maps listing (user photo); rights for republication not confirmed.",
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6ZRAC2zVh_A_kbZGm5ja2fmNPD8-GE-EyfcBsTYLM626EjXnk03tP0W-vX573ordTpnJ25jGmeRF7GYaajcxmFw_toaJxWBK5ur9vwe34uBmjdQrZbcJskRUJMa19VZj_gh0XpyWrYp6V=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/DA+QUARTUCCIO+OSTERIA/@43.8424866,10.5051947,17z/data=!3m1!4b1!4m6!3m5!1s0x12d583660c212893:0x406fedce8af0f9c8!8m2!3d43.8424866!4d10.5051947!16s%2Fg%2F11x8z6zcyz?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   },
   {
     "id": "lucca-la-norma",
