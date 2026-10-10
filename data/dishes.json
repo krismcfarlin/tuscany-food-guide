@@ -101,11 +101,11 @@
     "region": "Florence",
     "aliases": [],
     "mustTry": true,
-    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Focaccia_semplice.jpg",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Focaccia_semplice.jpg",
-    "imageCredit": "Tek3327 / Wikimedia Commons · CC BY-SA 4.0",
-    "imageRightsStatus": "commons-licensed-representative-focaccia",
-    "imageNotes": "Representative plain focaccia with rosemary; not confirmed as a specifically Tuscan schiacciata."
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Schiacciata.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Schiacciata.jpg",
+    "imageCredit": "Emilafreniere / Wikimedia Commons · CC0",
+    "imageRightsStatus": "commons-cc0",
+    "imageNotes": "Schiacciata sandwich (flatbread with prosciutto and cheese) eaten street-side; replaced a plain-rosemary-focaccia stand-in."
   },
   {
     "id": "schiacciata-con-luva",

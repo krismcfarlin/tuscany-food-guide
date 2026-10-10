@@ -4,7 +4,7 @@
  let query = ''; let region = 'All'; let withPlaces = false;
  const count = (id: string) => new Set(evidence.filter(e => e.foodId === id && e.evidenceStatus !== 'unverified').map(e => e.placeId)).size;
  const restaurants = (id: string) => [...new Set(evidence.filter(e => e.foodId === id && e.evidenceStatus !== 'unverified').map(e => e.placeId))].map(id => placeById.get(id)).filter((p): p is NonNullable<typeof p> => !!p);
- $: shown = dishes.filter(d => (region === 'All' || d.region === region) && (!withPlaces || count(d.id) > 0) && [d.italianName,d.englishDescription,...(d.aliases || [])].join(' ').toLowerCase().includes(query.toLowerCase())).sort((a,b) => count(b.id)-count(a.id) || a.italianName.localeCompare(b.italianName));
+ $: shown = dishes.filter(d => (region === 'All' || d.region === region) && (!withPlaces || count(d.id) > 0) && [d.italianName,d.englishDescription,...(d.aliases || [])].join(' ').toLowerCase().includes(query.toLowerCase())).sort((a,b) => a.italianName.localeCompare(b.italianName));
 </script>
 <section class="pageintro"><p class="eyebrow">THE MENU TRANSLATOR</p><h1>Italian food dictionary</h1><p>Every food is linked to restaurants when we have published evidence. Tap a restaurant name to see its address and other dishes.</p></section>
 <div class="controls"><label>Search Italian or English<input bind:value={query} placeholder="e.g. cinghiale, wild boar, cecina"/></label><label>Region<select bind:value={region}><option>All</option>{#each [...new Set(dishes.map(d => d.region))].sort() as r}<option>{r}</option>{/each}</select></label><label class="check"><input type="checkbox" bind:checked={withPlaces}/> Show only foods with sourced places</label></div>
