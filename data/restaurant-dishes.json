@@ -2,20 +2,20 @@
   {
     "placeId": "pisa-il-montino",
     "foodId": "cecina",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "cecina",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.pizzeriailmontino.it/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official website names cecina among house specialties."
   },
   {
     "placeId": "pisa-il-montino",
     "foodId": "castagnaccio",
-    "menuName": null,
-    "evidenceStatus": "unverified",
-    "sourceUrl": null,
-    "verifiedAt": null,
-    "notes": "Research lead only; do not display as confirmed menu availability."
+    "menuName": "castagnaccio",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.pizzeriailmontino.it/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official website names castagnaccio among house specialties; check seasonal availability."
   },
   {
     "placeId": "fi-trippa-pollini",
@@ -493,5 +493,86 @@
     "sourceUrl": "https://www.trattoriadagiulio.it/",
     "verifiedAt": "2026-10-09",
     "notes": "Restaurant-owned site or official description; check seasonal availability."
+  },
+  {
+    "placeId": "pisa-osteria-i-santi",
+    "foodId": "bordatino",
+    "menuName": "Bordatino",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.osteria-isanti.com/it/menu",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official site menu; marked 'Solo in stagione' (seasonal)."
+  },
+  {
+    "placeId": "pisa-osteria-i-santi",
+    "foodId": "torta-co-bischeri",
+    "menuName": "Torta co' bischeri",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.osteria-isanti.com/it/menu",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official site menu: Riso, pinoli, uvetta, canditi e cioccolato."
+  },
+  {
+    "placeId": "lucca-da-giulio",
+    "foodId": "baccala-coi-porri",
+    "menuName": "Baccalà con porri",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoriadagiulio.it/wp-content/uploads/2025/05/DA-GIULIO-Trattoria-Menu-mag2025_Def01g75533-r1.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official May 2025 PDF menu, Secondi piatti, €14 (menu snapshot already stored)."
+  },
+  {
+    "placeId": "lucca-da-giulio",
+    "foodId": "cioncia",
+    "menuName": "Cioncia",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoriadagiulio.it/wp-content/uploads/2025/05/DA-GIULIO-Trattoria-Menu-mag2025_Def01g75533-r1.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official May 2025 PDF menu, Secondi piatti, €12."
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "foodId": "zuppa-frantoiana",
+    "menuName": "Zuppa frantoiana",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.trattoria-lucchese.it/wp-content/uploads/2026/03/menu_trattoria_lucchese.pdf",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official March 2026 PDF menu, Zuppe toscane, €9."
+  },
+  {
+    "placeId": "lucca-taddeucci",
+    "foodId": "torta-coi-becchi",
+    "menuName": "Torta Coi Becchi alle Mandorle",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.buccellatotaddeucci.it/prodotti-dettaglio.php?id=41",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official Taddeucci product page for the torta coi becchi (almond version)."
+  },
+  {
+    "placeId": "fi-anticoforno-giglio",
+    "foodId": "schiacciata-con-luva",
+    "menuName": "schiacciata con l'uva",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.firenzemadeintuscany.com/en/article/la-schiacciata-con-luva-10-places-find-best-florence/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Third-party guide (firenzemadeintuscany.com) lists Antico Forno Giglio as a top address; harvest season only."
+  },
+  {
+    "placeId": "fi-ino-panino",
+    "foodId": "schiacciata-con-luva",
+    "menuName": "Schiacciata con l'uva",
+    "evidenceStatus": "confirmed",
+    "sourceUrl": "https://www.inofirenze.com/schiacciata-con-luva/",
+    "verifiedAt": "2026-10-10",
+    "notes": "Official product page; harvest-season item."
+  },
+  {
+    "placeId": "fi-forno-becagli",
+    "foodId": "schiacciata-con-luva",
+    "menuName": "schiacciata con l'uva",
+    "evidenceStatus": "reported",
+    "sourceUrl": "https://www.cibotoday.it/citta/firenze/miglior-schiacciata-uva-firenze.html",
+    "verifiedAt": "2026-10-10",
+    "notes": "2023 contest winner per Cibododay article; third-party report, seasonal availability September-October."
   }
 ]

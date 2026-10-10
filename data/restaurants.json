@@ -504,5 +504,49 @@
     "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0Nw7lJRvWKB9N7DekhdVpQUpXigE7JALLd0clKyps3iFw0BnnkKoMxqHJQV5-uJUa2R3LtIpQcAWfdF8flSX7UxeDEvC5bti2P-Fv1MGUnzYq5vgtOs9-93eAy5yNuXxFdnl1=s192-w192-h144-n-k-no",
     "imageSourceUrl": "https://www.google.com/maps/search/?api=1&query=Ristorante%20La%20Norma%20Lucca",
     "imageRightsStatus": "user-supplied-google-thumbnail-rights-unverified"
+  },
+  {
+    "id": "pisa-osteria-i-santi",
+    "city": "Pisa",
+    "address": "Via Santa Maria, 71, 56126 Pisa PI",
+    "name": "Osteria I Santi",
+    "origin": "suggested",
+    "identityStatus": "verified-official",
+    "identitySourceUrl": "https://www.osteria-isanti.com/it/",
+    "notes": "Official site and menu name Pisan tradition dishes; Bordatino is seasonal ('Solo in stagione').",
+    "cuisine": "Tuscan / Pisan"
+  },
+  {
+    "id": "fi-anticoforno-giglio",
+    "city": "Florence",
+    "address": "Via Vincenzo Gioberti, 151r, 50121 Firenze FI",
+    "name": "Antico Forno Giglio",
+    "origin": "suggested",
+    "identityStatus": "verified-third-party",
+    "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/article/la-schiacciata-con-luva-10-places-find-best-florence/",
+    "notes": "Bakery since ~1940s; named in a 'best schiacciata con l'uva in Florence' guide (Tiziana Cini article). Harvest-season dish.",
+    "cuisine": "Forno / bakery"
+  },
+  {
+    "id": "fi-ino-panino",
+    "city": "Florence",
+    "address": "Via dei Georgofili 3r/7r, 50122 Firenze FI",
+    "name": "Ino - Panino e Gastronomia",
+    "origin": "suggested",
+    "identityStatus": "verified-official",
+    "identitySourceUrl": "https://www.inofirenze.com/",
+    "notes": "Official site has a dedicated 'Schiacciata con l'uva' product page (harvest season).",
+    "cuisine": "Gastronomia / panini"
+  },
+  {
+    "id": "fi-forno-becagli",
+    "city": "Florence",
+    "address": "Borgo Ognissanti 92/r, 50123 Firenze FI",
+    "name": "Forno Becagli",
+    "origin": "suggested",
+    "identityStatus": "verified-third-party",
+    "identitySourceUrl": "https://www.cibotoday.it/citta/firenze/miglior-schiacciata-uva-firenze.html",
+    "notes": "Won the 2023 'La miglior schiacciata con l'uva di Firenze' contest (Cibododay coverage); harvest-season dish.",
+    "cuisine": "Forno / bakery"
   }
 ]
