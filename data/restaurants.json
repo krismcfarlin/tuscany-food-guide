@@ -174,11 +174,11 @@
     "id": "fi-roberto",
     "city": "Florence",
     "address": "Via dei Castellani 4r, Firenze",
-    "name": "Trattoria Roberto",
+    "name": "Trattoria Roberto dal 1973",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Verified restaurant listing at Via dei Castellani 4r near the Uffizi; photographs available on listings but reuse permission unverified."
   },
   {
     "id": "fi-casalinga",
@@ -186,7 +186,7 @@
     "address": "Via dei Michelozzi 9R, Firenze",
     "name": "Trattoria La Casalinga",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-official",
     "dishCandidates": [
       "ribollita",
       "trippa-alla-fiorentina",
@@ -194,7 +194,8 @@
       "pappardelle-al-cinghiale",
       "crostini-neri"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Family-run since 1963. Official restaurant website verifies Via dei Michelozzi 9/R, seasonal daily specials, full menu with prices and gallery. Images not republished without verified rights.",
+    "identitySourceUrl": "https://trattorialacasalinga.it/"
   },
   {
     "id": "fi-brindellone",
@@ -210,15 +211,15 @@
       "trippa-alla-fiorentina",
       "peposo"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Trattoria I'Brindellone at Piazza Piattellina 10; seeded food associations and photo reuse rights remain unverified."
   },
   {
     "id": "fi-sergio-gozzi",
     "city": "Florence",
     "address": "Piazza San Lorenzo 8R, Firenze",
-    "name": "Sergio Gozzi",
+    "name": "Trattoria Sergio Gozzi",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-third-party",
     "dishCandidates": [
       "peposo",
       "bistecca-alla-fiorentina",
@@ -226,7 +227,8 @@
       "ribollita",
       "pappa-al-pomodoro"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Historic Tuscan lunch trattoria at Piazza San Lorenzo 8R. Independent Florence restaurant profile confirms specialties including peposo, trippa, ribollita and seasonal pappa al pomodoro; menu prices and photo rights not verified.",
+    "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/place/trattoria-sergio-gozzi/"
   },
   {
     "id": "fi-mario",
