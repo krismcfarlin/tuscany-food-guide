@@ -236,9 +236,15 @@
     "address": "Via Rosina 2r, Firenze",
     "name": "Trattoria Mario",
     "origin": "original",
-    "identityStatus": "provisional",
-    "dishCandidates": [],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "identityStatus": "verified-third-party",
+    "dishCandidates": [
+      "ribollita",
+      "bistecca-alla-fiorentina",
+      "peposo",
+      "lampredotto"
+    ],
+    "notes": "Family-run Tuscan trattoria since 1953 at Via Rosina 2r. Regional guide confirms ribollita, Fiorentina steak, peposo and lampredotto; menu varies daily, and restaurant photos have no confirmed reuse rights.",
+    "identitySourceUrl": "https://www.firenzemadeintuscany.com/en/place/trattoria-mario/"
   },
   {
     "id": "lucca-osteria-baralla",
@@ -332,9 +338,13 @@
     "dishCandidates": [
       "tordelli-lucchesi",
       "minestra-di-farro",
-      "cioncia"
+      "zuppa-frantoiana",
+      "cioncia",
+      "peposo",
+      "torta-coi-becchi",
+      "bistecca-alla-fiorentina"
     ],
-    "notes": "Official site explicitly names Tordello lucchese, Zuppa con il farro and Cioncia."
+    "notes": "Official 2026 PDF menu confirms tordelli lucchesi, zuppa di farro, zuppa frantoiana, cioncia, peposo, Fiorentina steak and Lucca becchi cakes. Prices captured separately with PDF provenance; photos on official website not licensed for reuse."
   },
   {
     "id": "lucca-canuleia",
@@ -345,7 +355,7 @@
     "identityStatus": "verified-source",
     "identitySourceUrl": "https://www.canuleiatrattoria.it/homepage/il-nostro-menu/",
     "dishCandidates": [],
-    "notes": "Contemporary Tuscan restaurant with restaurant-owned 2026 menu; specific canonical dishes not yet matched."
+    "notes": "Official site lists 2026 menu as images, not accessible as reliable text; no prices copied without transcription verification. Gallery photos have no confirmed reuse rights."
   },
   {
     "id": "lucca-da-leo",
@@ -354,9 +364,9 @@
     "name": "Trattoria da Leo",
     "origin": "suggested",
     "identityStatus": "verified-source",
-    "identitySourceUrl": "https://www.trattoriadaleo.it/",
+    "identitySourceUrl": "https://trattoriadaleo.webnode.it/",
     "dishCandidates": [],
-    "notes": "Traditional trattoria; online site contains apparent template errors, so individual menu associations require stronger confirmation."
+    "notes": "The trattoriadaleo.it site contains apparent placeholder text, incorrect Milan address and casino link; do not use it for venue facts. Alternate history/menu site (trattoriadaleo.webnode.it) describes family history and prices, but age and ownership of content need verification. No image reused."
   },
   {
     "id": "lucca-gigi",
