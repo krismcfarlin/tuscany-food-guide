@@ -1195,5 +1195,457 @@
         "foodId": null
       }
     ]
+  },
+  {
+    "placeId": "lucca-trattoria-lucchese",
+    "sourceUrl": "https://www.trattoria-lucchese.it/wp-content/uploads/2026/03/menu_trattoria_lucchese.pdf",
+    "sourceType": "official-pdf",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-10",
+    "currency": "EUR",
+    "extractionMethod": "manual-pdf-text-italian-pages-1-4",
+    "items": [
+      {
+        "category": "Bruschette",
+        "name": "Bruschetta al pomodoro",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Bruschette",
+        "name": "Bruschetta con ricotta, menta e zucchine",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Bruschette",
+        "name": "Bruschetta con carciofi e crema di pecorino",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Paste e risotti",
+        "name": "Tordello lucchese al ragù",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": "tordelli-lucchesi"
+      },
+      {
+        "category": "Paste e risotti",
+        "name": "Tordello ricotta e spinaci",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Paste e risotti",
+        "name": "Tagliolini pomodoro, basilico e burrata",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Paste e risotti",
+        "name": "Risotto agli asparagi",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Paste e risotti",
+        "name": "Lasagne alla bolognese",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Paste e risotti",
+        "name": "Tagliolino alla carbonara",
+        "price": 11,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Zuppe toscane",
+        "name": "Zuppa di farro della Garfagnana",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": "minestra-di-farro"
+      },
+      {
+        "category": "Zuppe toscane",
+        "name": "Zuppa di legumi primaverili",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Zuppe toscane",
+        "name": "Zuppa frantoiana",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": "zuppa-frantoiana"
+      },
+      {
+        "category": "Antipasti",
+        "name": "Panzanella",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Tonno del Chianti con cipollina caramellata",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Pecorino toscano con composta di fichi",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Prosciutto crudo e panzerotti",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Antipasto misto toscano con panzerotti",
+        "price": 12,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Panzerotti",
+        "price": 3,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Tartare di manzo",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Carne di manzo alla pizzaiola",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Peposo fiorentino",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": "peposo"
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Pollo alla cacciatora",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Pollo al limone",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Cappello del prete lesso con salsa verde",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Trippa con fagioli",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Cioncia (antica ricetta toscana)",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": "cioncia"
+      },
+      {
+        "category": "Dalla cucina",
+        "name": "Francesina (antica ricetta toscana)",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Insalate",
+        "name": "Insalata nizzarda",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Insalate",
+        "name": "Insalata caprese",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Fagioli lucchesi al forno",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Insalata mista",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Patate alla cenere",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Cipolle alla cenere",
+        "price": 5,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Formaggi",
+        "name": "Gorgonzola",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Formaggi",
+        "name": "Pecorino toscano",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Formaggi",
+        "name": "Parmigiano",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Pizze",
+        "name": "Margherita",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Pizze",
+        "name": "Regina Margherita",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Pizze",
+        "name": "Diavola",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Pizze",
+        "name": "Boscaiola",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Pizze",
+        "name": "Italia",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Pizze",
+        "name": "Femmina",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Pizze",
+        "name": "Parma-Andria",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Pollo alla brace",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Rosticciana alla brace",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Arrosticini d'agnello",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Salsiccia Toscana alla brace",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Scamerita alla brace",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Mezzo pollo al mattone",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Tagliata di maialino di cinta",
+        "price": 10,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Tagliata di manzo con rucola e grana",
+        "price": 15,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Grigliata mista toscana (minimo 2 persone)",
+        "price": 16,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Dalla griglia",
+        "name": "Sua Maestà la Fiorentina (Garfagnana)",
+        "price": 50,
+        "priceUnit": "kg",
+        "foodId": "bistecca-alla-fiorentina"
+      },
+      {
+        "category": "Torte lucchesi con i becchi",
+        "name": "Torta di verdure",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": "torta-coi-becchi"
+      },
+      {
+        "category": "Torte lucchesi con i becchi",
+        "name": "Torta al cioccolato",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": "torta-coi-becchi"
+      },
+      {
+        "category": "Torte lucchesi con i becchi",
+        "name": "Torta di fichi e noci",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": "torta-coi-becchi"
+      },
+      {
+        "category": "Torte lucchesi con i becchi",
+        "name": "Torta di ricotta e cioccolato",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": "torta-coi-becchi"
+      },
+      {
+        "category": "Dolci",
+        "name": "Tiramisù",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Panna cotta alle amarene",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Crème brûlée alla nocciola",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Macedonia",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dolci",
+        "name": "Gelato alla vaniglia del Madagascar",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": "gelato"
+      },
+      {
+        "category": "Dolci",
+        "name": "Cantucci e Vin Santo",
+        "price": 6,
+        "priceUnit": "item",
+        "foodId": "cantucci-e-vin-santo"
+      }
+    ]
   }
 ]
