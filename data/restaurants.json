@@ -105,11 +105,12 @@
     "address": "Piazza Nazario Sauro 25/r, Firenze",
     "name": "Gelateria La Carraia",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-official",
     "dishCandidates": [
       "gelato"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Official site confirms gelateria established 1990 at Piazza Nazario Sauro 25/r; official photo galleries exist, but reuse permission not confirmed.",
+    "identitySourceUrl": "https://www.gelaterialacarraia.it/"
   },
   {
     "id": "fi-vivoli",
@@ -135,7 +136,7 @@
     "origin": "original",
     "identityStatus": "verified-third-party",
     "dishCandidates": [],
-    "notes": "TheFork menu lists Bistecca alla fiorentina, menu last updated November 2025; current availability unconfirmed.",
+    "notes": "Restaurant listing and 2025 TheFork menu are historical; current menu and venue photo reuse rights remain unverified.",
     "identitySourceUrl": "https://www.thefork.it/ristorante/osteria-la-dolce-vita-r755610/menu"
   },
   {
@@ -144,12 +145,13 @@
     "address": "Via Folco Portinari 7R, Firenze",
     "name": "Osteria Zio Gigi",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-official",
     "dishCandidates": [
       "pappardelle-al-cinghiale",
       "bistecca-alla-fiorentina"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Official restaurant website confirms Via Folco Portinari 7, Florence. Daily lunch menu changes; published dinner menu is separately captured with source and prices. Restaurant photo reuse permission not confirmed.",
+    "identitySourceUrl": "https://www.ziogigi.it/contatti"
   },
   {
     "id": "fi-arte-dory",
@@ -157,7 +159,7 @@
     "address": "Via dei Serragli 78R, Firenze",
     "name": "L'Arte di Dory",
     "origin": "original",
-    "identityStatus": "provisional",
+    "identityStatus": "verified-third-party",
     "dishCandidates": [
       "ribollita",
       "pappa-al-pomodoro",
@@ -166,7 +168,7 @@
       "bistecca-alla-fiorentina",
       "cantucci-e-vin-santo"
     ],
-    "notes": "Seeded from travel selections; identity and menu details require source verification."
+    "notes": "Restaurant confirmed at Via dei Serragli 78R. Photos visible on business listings but reuse rights not verified; prior dish candidates remain unverified."
   },
   {
     "id": "fi-roberto",
