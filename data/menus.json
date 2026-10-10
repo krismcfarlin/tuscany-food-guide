@@ -1647,5 +1647,226 @@
         "foodId": "cantucci-e-vin-santo"
       }
     ]
+  },
+  {
+    "placeId": "lucca-miranda",
+    "sourceUrl": "https://www.osteriamiranda.it/la-carta/",
+    "sourceType": "official-html",
+    "sourcePublishedDate": null,
+    "retrievedAt": "2026-10-10",
+    "currency": "EUR",
+    "extractionMethod": "manual-official-html-text-seasonal-menu",
+    "items": [
+      {
+        "category": "Salumi del territorio",
+        "name": "La Sbriciolona del salumificio Triglia",
+        "price": 16,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Salumi del territorio",
+        "name": "Prosciutto crudo Bacchio nero della Garfagnana",
+        "price": 18,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Salumi del territorio",
+        "name": "Lardo di Colonnata IGP",
+        "price": 17,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Salumi del territorio",
+        "name": "Mortadella di Gombitelli",
+        "price": 16,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Tartare di manzo garfagnino con uovo di quaglia",
+        "price": 19,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Acciughe ripiene alla Genovese",
+        "price": 20,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Cervello fritto con insalata di stagione",
+        "price": 20,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Caprese di cocomero e mozzarella di bufala",
+        "price": 19,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Antipasti",
+        "name": "Filetto di tonno rosso marinato",
+        "price": 20,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Gnocchi di patate con cozze e zucchine",
+        "price": 20,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Tagliolino ai tre pomodori e basilico",
+        "price": 19,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Spaghetto alla chitarra con tartare di spigola",
+        "price": 22,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Gnudi di ricotta e spinaci",
+        "price": 19,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Primi piatti",
+        "name": "Rosetta di pasta fresca gratinata",
+        "price": 20,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Suprema di piccione Royal alla brace",
+        "price": 26,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Ombrina scottata con cetriolo e panna acida",
+        "price": 26,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Uovo di montagna in camicia con tartufo estivo",
+        "price": 24,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Filetto di maiale in crosta",
+        "price": 26,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Secondi piatti",
+        "name": "Animella di vitello alla Boscaiola",
+        "price": 26,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Purè di patate ratte",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Insalata riccia con fragole in carpione",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Contorni",
+        "name": "Contorno del giorno",
+        "price": 8,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Formaggi",
+        "name": "Selezione di formaggi La Dispensa e Du Passi",
+        "price": 24,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dessert",
+        "name": "Disperato-Erotico Tiramisù",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dessert",
+        "name": "Gelato al Fior di Latte con aceto balsamico",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dessert",
+        "name": "Cocco-Ciocco & Kiwi",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dessert",
+        "name": "Panna Poco Cotta",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Dessert",
+        "name": "Sorbetto del giorno",
+        "price": 9,
+        "priceUnit": "item",
+        "foodId": null
+      },
+      {
+        "category": "Menu degustazione",
+        "name": "Oltre il Territorio",
+        "price": 70,
+        "priceUnit": "person",
+        "foodId": null
+      },
+      {
+        "category": "Menu degustazione",
+        "name": "Verdena vegetariano",
+        "price": 60,
+        "priceUnit": "person",
+        "foodId": null
+      }
+    ]
   }
 ]
