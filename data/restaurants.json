@@ -633,5 +633,37 @@
     "imageRightsStatus": "google-maps-user-photo-rights-unverified",
     "latitude": 43.773199,
     "longitude": 11.244686
+  },
+  {
+    "id": "fi-antica-mescita",
+    "city": "Florence",
+    "address": "Via di San Niccolò 60r, 50125 Firenze FI",
+    "name": "Osteria Antica Mescita",
+    "origin": "suggested",
+    "identityStatus": "verified-official",
+    "identitySourceUrl": "https://www.anticamescitasanniccolo.com/",
+    "notes": "Official site: osteria in the San Niccolò quarter serving traditional Florentine home-style cooking ('ricette della nonna'); partly a historic wine shop (mescita). Lunch 12:00–14:30, dinner 19:00–22:30, open Monday–Sunday. A restored medieval crypt and an outdoor terrace facing Piazzale Michelangelo. No online menu: prices need asking; reservations via site. Photograph from the restaurant's own website gallery (façade with the historic 'mescita di vini' sign); publication permission not confirmed.",
+    "cuisine": "Traditional Florentine / Tuscan",
+    "latitude": 43.766425,
+    "longitude": 11.262168,
+    "imageUrl": "https://www.anticamescitasanniccolo.com/wp-content/uploads/2023/12/osteria-antica-mescita-firenze-17.jpg",
+    "imageSourceUrl": "https://www.anticamescitasanniccolo.com/galleria/",
+    "imageRightsStatus": "official-website-preview-permission-not-confirmed"
+  },
+  {
+    "id": "fi-gustapizza",
+    "city": "Florence",
+    "address": "Via Maggio 46r, 50125 Firenze FI",
+    "name": "GustaPizza",
+    "origin": "suggested",
+    "identityStatus": "verified-third-party",
+    "identitySourceUrl": "https://restaurantsforkings.com/city/florence/gustapizza",
+    "notes": "Wood-fired Neapolitan pizzeria in the Oltrarno, steps from Santo Spirito and Pitti Palace. Tue–Sun 11:30–23:30, closed Monday. Pizzas roughly €8–15; no reservations (first-come; expect queues at peak). Dine-in is tight; takeout and the steps of Basilica di Santo Spirito are the local move. Signature 'Gusta' pizza with cherry tomatoes, arugula, mozzarella, parmesan; also mortadella & burrata, pesto & burrata, Calabrese. Phone +39 055 285068. Venue photograph from its Google Maps listing; signage 'GUSTAPIZZA' and house number 46 visible. Pizza is not in the dish dictionary, so no dish links yet.",
+    "cuisine": "Neapolitan pizza",
+    "latitude": 43.764229,
+    "longitude": 11.253095,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q6c8ihK4az-UArecYye-SwPze1DkGuBS2imdEHNcJqrdu2DAj3nBjENH5ZFMLyyDVLDKlDvZfSl2lrjkcaAv4qpuxiWnNUhU10vBI-zNbXvaxuV_pP1OrLxxEjEOZ2GAhwZmbxVnYr0Kp-=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Gustapizza/@43.766499,11.2487,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5154f0202183:0xff4186d8f42cf7a0!8m2!3d43.766499!4d11.2487!16s%2Fg%2F1tm3m506?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   }
 ]
