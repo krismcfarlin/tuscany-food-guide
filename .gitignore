@@ -150,3 +150,6 @@ vite.config.ts.timestamp-*
 
 # SvelteKit static build output
 /build/
+
+# Private trip bookings (plaintext; encrypt with scripts/encrypt-bookings.mjs before committing)
+data/bookings.local.json

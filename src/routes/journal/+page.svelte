@@ -1,18 +1,32 @@
 <script lang="ts">
  import { base } from '$app/paths';
  import { onMount } from 'svelte';
- import { places, dishes, evidence, placeById, dishById, dishEvidence } from '$lib/data';
+ import { places, dishes, evidence, placeById, dishById, dishEvidence, mapsUrl, directionsUrl } from '$lib/data';
  import { progress, toggleProgress } from '$lib/progress';
- import { journal, journalReady, entryFor, setEntry, removeEntry, formatDay, type JournalEntry } from '$lib/journal';
+ import { journal, journalReady, entryFor, setEntry, removeEntry, formatDay, bookingsCipher, bookingsStore, decryptBookings, rememberPassphrase, forgetPassphrase, rememberedPassphrase, type JournalEntry, type Booking } from '$lib/journal';
 
- let start = '2026-10-18'; let nights = 8; let days: string[] = [];
+ let start = '2026-10-19'; let nights = 5; let days: string[] = [];
  let openDay = 0;
  let pickerFor: { day: string; meal: 'lunch' | 'dinner' } | null = null;
  let draftNote = ''; let draftRating = 0;
  let search = '';
  let msg = '';
+ let pass = ''; let unlocking = false; let unlockError = '';
 
- onMount(() => { journalReady(); rebuild(); });
+ onMount(() => {
+   journalReady(); rebuild();
+   const saved = rememberedPassphrase();
+   if (saved) { pass = saved; unlock(); }
+ });
+ async function unlock() {
+   unlocking = true; unlockError = '';
+   try {
+     bookingsStore.set(await decryptBookings(bookingsCipher, pass));
+     rememberPassphrase(pass);
+   } catch { unlockError = 'Wrong key — that passphrase does not open the bookings.'; bookingsStore.set(null); }
+   finally { unlocking = false; }
+ }
+ function lock() { forgetPassphrase(); bookingsStore.set(null); pass = ''; unlockError = ''; }
  function addDaysIso(iso: string, n: number): string {
    const [y, m, d] = iso.split('-').map(Number);
    return new Date(Date.UTC(y, m - 1, d + n)).toISOString().slice(0, 10);
@@ -21,7 +35,8 @@
    days = Array.from({ length: Math.max(1, Math.min(nights + 1, 30)) }, (_, i) => addDaysIso(start, i));
  }
 
- $: byDay = $journal && days.map((day) => ({ day, lunch: $journal.find((e) => e.day === day && e.meal === 'lunch'), dinner: $journal.find((e) => e.day === day && e.meal === 'dinner') }));
+ $: booked = $bookingsStore || [];
+ $: byDay = $journal && days.map((day) => ({ day, lunch: $journal.find((e) => e.day === day && e.meal === 'lunch'), dinner: $journal.find((e) => e.day === day && e.meal === 'dinner'), booked: booked.filter((b) => b.day === day).sort((a, b) => a.sort.localeCompare(b.sort)) }));
  $: entries = $journal.slice().sort((a, b) => a.day.localeCompare(b.day) || (a.meal === 'lunch' ? -1 : 1));
  $: placesVisited = new Set($journal.map((e) => e.placeId));
  $: dishesEaten = new Set($journal.flatMap((e) => { const p = placeById.get(e.placeId); return p ? dishEvidence(p.id).map((ev) => ev.foodId) : []; }));
@@ -78,10 +93,39 @@
 </div>
 {#if msg}<p class="jmsg">{msg}</p>{/if}
 
+{#if !$bookingsStore}
+ <div class="junlock">
+  <span>🔒 Confirmed bookings (flights, apartment, tour, dinner) are stored encrypted on this page.</span>
+  <label>Passphrase<input type="password" bind:value={pass} onkeydown={(e) => e.key === 'Enter' && unlock()} placeholder="type your key and press Enter" autocomplete="off"/></label>
+  <button class="jbtn" disabled={unlocking || !pass} onclick={unlock}>{unlocking ? 'Unlocking…' : 'Unlock'}</button>
+ </div>
+ {#if unlockError}<p class="jerror">{unlockError}</p>{/if}
+{:else}
+ <div class="junlock jlocked">
+  <span>🔓 Bookings unlocked</span>
+  <button onclick={lock}>Lock again</button>
+ </div>
+{/if}
+
 <div class="jgrid">
 {#each byDay as slot, i (slot.day)}
  <article class="jday" class:today={i === openDay}>
   <h3>{formatDay(slot.day)}<button class="jedit" aria-label="Edit day" onclick={() => { openDay = i; }}>✎</button></h3>
+  {#each slot.booked as b (b.title)}
+   <div class="jbooked">
+    <span class="jtag">BOOKED</span>
+    <strong>{b.title}</strong>
+    <small>{b.time}</small>
+    {#if b.address}<p class="jaddr">{b.address}</p>{/if}
+    {#if b.note}<p class="jnote">{b.note}</p>{/if}
+    <div class="jacts2">
+     {#if b.address}<a href={directionsUrl(b.address, b.travel || 'walking')} target="_blank" rel="noopener noreferrer">{b.travel === 'driving' ? 'Directions (drive) ↗' : b.travel === 'flight' ? 'Airport ↗' : 'Walk there ↗'}</a>{/if}
+     {#if b.address}<a href={mapsUrl(b.address)} target="_blank" rel="noopener noreferrer">Map ↗</a>{/if}
+     {#if b.activityUrl}<a href={b.activityUrl} target="_blank" rel="noopener noreferrer">Booking details ↗</a>{/if}
+     {#if b.url}<a href={b.url} target="_blank" rel="noopener noreferrer">Manage booking ↗</a>{/if}
+    </div>
+   </div>
+  {/each}
   {#each meals as meal}
    {@const e = meal === 'lunch' ? slot.lunch : slot.dinner}
    <div class="jslot">
@@ -130,10 +174,11 @@
  .jbtn.restore{position:relative;overflow:hidden}
  .jbtn.restore input{position:absolute;inset:0;opacity:0;cursor:pointer}
  .jmsg{color:#285a45;font-weight:600}
- .jgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:18px 0 30px}
- .jday{border:1px solid #e0e5db;border-radius:14px;background:white;padding:14px 16px}
+ .jgrid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin:18px 0 30px}
+@media(max-width:1180px){.jgrid{grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}}
+ .jday{border:1px solid #e0e5db;border-radius:14px;background:white;padding:12px 12px;min-width:0}
  .jday.today{border-color:#285a45;box-shadow:0 0 0 2px #eef5ec}
- .jday h3{display:flex;justify-content:space-between;align-items:baseline;font-size:1.02rem;margin:0 0 8px}
+ .jday h3{display:flex;justify-content:space-between;align-items:baseline;font-size:.92rem;margin:0 0 6px}
  .jedit{border:0;background:none;cursor:pointer;color:#8aa096;font-size:.85rem}
  .jslot{display:flex;gap:10px;align-items:flex-start;padding:7px 0;border-top:1px dashed #e4e7dc}
  .jmeal{flex:0 0 46px;font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#4b8060;padding-top:4px}
@@ -162,4 +207,18 @@
  .jplace strong{display:block;font-size:.92rem}
  .jplace small{display:block;color:#64746b;font-size:.76rem;line-height:1.4}
  .jdone{font-size:.68rem;font-weight:700;color:#745d35;background:#f2ebdc;border-radius:10px;padding:3px 7px;flex:none}
+ .jbooked{border:1px solid #c9dccb;background:#eef5ec;border-radius:11px;padding:8px 9px;margin:7px 0;overflow-wrap:anywhere}
+ .jbooked strong{display:block;font-size:.92rem;margin-top:3px}
+ .jbooked small{display:block;color:#3e5c49;font-size:.78rem;font-weight:600;margin:2px 0}
+ .jaddr{margin:3px 0 0;font-size:.78rem;color:#54685c}
+ .jacts2{display:flex;gap:12px;flex-wrap:wrap;margin-top:6px;font-size:.8rem;font-weight:700}
+ .jbooked .jnote{margin:6px 0 0;font-size:.74rem;line-height:1.45}
+ .jtag{display:inline-block;font-size:.62rem;font-weight:800;letter-spacing:.1em;background:#285a45;color:#fff;border-radius:8px;padding:2px 7px}
+ .junlock{display:flex;gap:12px;align-items:end;flex-wrap:wrap;border:1px solid #cbd5ca;background:#fbfcf9;border-radius:14px;padding:14px 16px;margin:10px 0 4px}
+ .junlock span{font-size:.9rem;color:#41534a;flex:1;min-width:220px}
+ .junlock label{display:flex;flex-direction:column;font-size:.78rem;font-weight:700;gap:4px}
+ .junlock input{padding:10px 12px;border:1px solid #cbd5ca;border-radius:9px;font:inherit;min-width:230px}
+ .junlock.jlocked{background:#eef5ec;border-color:#c9dccb;align-items:center}
+ .junlock.jlocked button{border:0;background:#e5ede5;color:#285a45;border-radius:9px;padding:8px 12px;cursor:pointer;font:inherit;font-weight:600}
+ .jerror{color:#a3341f;font-weight:600}
 </style>

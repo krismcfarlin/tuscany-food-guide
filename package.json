@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "validate:data": "node scripts/validate-data.mjs",
-    "test": "npm run validate:data && npm run check && npm run build"
+    "test": "npm run validate:data && npm run check && npm run build",
+    "bookings:encrypt": "node scripts/encrypt-bookings.mjs"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.8",
