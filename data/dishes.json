@@ -306,5 +306,22 @@
     "imageRightsStatus": "commons-licensed-representative-anise-biscuits",
     "imageNotes": "Photograph depicts Italian anise biscuits; exact Tuscan anicini regional form not independently established.",
     "notes": " Where to eat: anicini are Ligurian/Sardinian anise biscuits (per it.wikipedia); no Tuscan venue in this guide has been found that verifiably sells them. Taddeucci's buccellato has anise but is a different product."
+  },
+  {
+    "id": "arancini",
+    "italianName": "Arancini / Arancine",
+    "englishDescription": "Deep-fried breaded rice balls stuffed with ragù, butter and peas, or mozzarella",
+    "region": "Sicilian",
+    "aliases": [
+      "arancina",
+      "arancino"
+    ],
+    "mustTry": true,
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arancine.jpg",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Arancine.jpg",
+    "imageCredit": "Dedda71 / Wikimedia Commons · CC BY 3.0",
+    "imageRightsStatus": "commons-licensed",
+    "imageNotes": "Oval Catania-style arancine ('bomba') in a rosticceria display case.",
+    "notes": "Not Tuscan in origin (Sicilian), but a want-to-eat item: commonly found in Tuscany at pizzerie and rosticcerie. No venue in this guide has verified it on a menu yet — worth asking at Il Pacchero and GustaPizza, both of which do contemporary/Sicilian-leaning menus."
   }
 ]
