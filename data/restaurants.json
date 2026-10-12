@@ -665,5 +665,21 @@
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q6c8ihK4az-UArecYye-SwPze1DkGuBS2imdEHNcJqrdu2DAj3nBjENH5ZFMLyyDVLDKlDvZfSl2lrjkcaAv4qpuxiWnNUhU10vBI-zNbXvaxuV_pP1OrLxxEjEOZ2GAhwZmbxVnYr0Kp-=w1200-h900-p-k-no",
     "imageSourceUrl": "https://www.google.com/maps/place/Gustapizza/@43.766499,11.2487,17z/data=!3m1!4b1!4m6!3m5!1s0x132a5154f0202183:0xff4186d8f42cf7a0!8m2!3d43.766499!4d11.2487!16s%2Fg%2F1tm3m506?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
     "imageRightsStatus": "google-maps-user-photo-rights-unverified"
+  },
+  {
+    "id": "fi-il-pacchero",
+    "city": "Florence",
+    "address": "Borgo San Jacopo 64r, 50125 Firenze FI",
+    "name": "Il Pacchero — Pizza e Cucina",
+    "origin": "suggested",
+    "identityStatus": "verified-official",
+    "identitySourceUrl": "https://www.ilpacchero.com/home",
+    "notes": "Official site: contemporary Neapolitan pizza and fresh-seafood cucina built around Cilento / Slow Food ingredients (UNESCO Mediterranean-diet heritage), by Vito and Roberto Tommasini. Housed inside a medieval tower on the Oltrarno with views over the Arno and Ponte Vecchio. Tue–Sun 12:00–15:00 and 18:30–23:00, closed Monday. €20–30 pp; dinner reservations recommended via ilpacchero.com (Prenota). Highlights: Margherita €9 / Margherita Cilentana €12, montanarine €5–6, scialatielli ai frutti di mare, fritto misto. Phone +39 055 3872843. Venue photograph from its Google Maps listing (interior; 'Pacchero' placemats and Arno view visible); rights for republication not confirmed.",
+    "cuisine": "Contemporary Neapolitan pizza / seafood",
+    "latitude": 43.767897,
+    "longitude": 11.25126,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLAz2kAEu4NJjscdDrKet_bgiv9q1hUhqvBEpndRUvMXRIPTsR-ykMhb6ivVMeRVWLrfcLYclenqYdxPVMr45Zh6ys-2CLFJSA0zp2GhxGJRTfS19Dx6-sB-Jdhpb42ssFlS-7wPzhjwuE=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/il+Pacchero+-+pizza+e+cucina/@43.7680241,11.2512169,17z/data=!3m1!4b1!4m6!3m5!1s0x132a514f4709e66d:0x131ce503fc06b3b4!8m2!3d43.7680241!4d11.2512169!16s%2Fg%2F11nxqwsd0r?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   }
 ]
