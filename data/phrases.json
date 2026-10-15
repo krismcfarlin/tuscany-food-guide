@@ -1,0 +1,872 @@
+[
+ {
+  "id": "bar",
+  "title": "Al bar — coffee & pastry",
+  "hint": "Order at the counter; prices are lower standing ('al banco') than seated.",
+  "phrases": [
+   {
+    "en": "Good morning (also a general hello all morning)",
+    "it": "Buongiorno"
+   },
+   {
+    "en": "An espresso, please",
+    "it": "Un caffè, per favore"
+   },
+   {
+    "en": "An espresso with a little foamed milk",
+    "it": "Un caffè macchiato"
+   },
+   {
+    "en": "A double espresso",
+    "it": "Un caffè doppio"
+   },
+   {
+    "en": "A decaf coffee",
+    "it": "Un decaffeinato"
+   },
+   {
+    "en": "A cappuccino, please",
+    "it": "Un cappuccino, per favore"
+   },
+   {
+    "en": "I'd like a jam croissant and a macchiato, please",
+    "it": "Vorrei un cornetto alla marmellata e un caffè macchiato, per favore"
+   },
+   {
+    "en": "A croissant with custard cream",
+    "it": "Un cornetto alla crema"
+   },
+   {
+    "en": "Tea with lemon",
+    "it": "Un tè con limone"
+   },
+   {
+    "en": "Freshly squeezed orange juice",
+    "it": "Una spremuta d'arancia"
+   },
+   {
+    "en": "A sparkling water, please",
+    "it": "Un'acqua frizzante, per favore"
+   },
+   {
+    "en": "Still water",
+    "it": "Acqua naturale"
+   },
+   {
+    "en": "Can you recommend something?",
+    "it": "Mi consiglia qualcosa?"
+   },
+   {
+    "en": "Is it fresh out of the oven?",
+    "it": "È appena sfornato?"
+   },
+   {
+    "en": "Can you warm it for me?",
+    "it": "Me lo scalda, per favore?"
+   },
+   {
+    "en": "To take away",
+    "it": "Da asporto, per favore"
+   },
+   {
+    "en": "I'll have it here",
+    "it": "Lo prendo qui"
+   },
+   {
+    "en": "How much is it?",
+    "it": "Quanto è?"
+   },
+   {
+    "en": "Can I pay by card?",
+    "it": "Pago con la carta, va bene?"
+   },
+   {
+    "en": "Thank you, have a good day",
+    "it": "Grazie, buona giornata"
+   }
+  ]
+ },
+ {
+  "id": "restaurant-order",
+  "title": "At a restaurant — ordering",
+  "hint": "Meals run primo (pasta/soup) then secondo (meat/fish); 'coperto' cover charge is normal.",
+  "phrases": [
+   {
+    "en": "Do you have a table free for four?",
+    "it": "Avete un tavolo libero per quattro?"
+   },
+   {
+    "en": "I have a reservation under McFarlin",
+    "it": "Ho una prenotazione a nome McFarlin"
+   },
+   {
+    "en": "Can we see the menu?",
+    "it": "Possiamo vedere il menù?"
+   },
+   {
+    "en": "What would you recommend for us?",
+    "it": "Cosa ci consiglia?"
+   },
+   {
+    "en": "What is the dish of the day?",
+    "it": "Qual è il piatto del giorno?"
+   },
+   {
+    "en": "For starter, some crostini",
+    "it": "Come antipasto, dei crostini"
+   },
+   {
+    "en": "I'll have the ribollita as my first",
+    "it": "Come primo, la ribollita"
+   },
+   {
+    "en": "A first and a second course, please",
+    "it": "Un primo e un secondo, per favore"
+   },
+   {
+    "en": "The bistecca, medium-rare, please",
+    "it": "La bistecca al sangue, per favore"
+   },
+   {
+    "en": "Well done",
+    "it": "Ben cotta"
+   },
+   {
+    "en": "I'd like my pasta al dente",
+    "it": "La pasta al dente, per favore"
+   },
+   {
+    "en": "Can we share this in two?",
+    "it": "Possiamo dividere in due?"
+   },
+   {
+    "en": "What's in this dish?",
+    "it": "Cosa c'è dentro questo piatto?"
+   },
+   {
+    "en": "Could you bring us some bread?",
+    "it": "Ci porta del pane, per favore?"
+   },
+   {
+    "en": "A bottle of house red",
+    "it": "Una bottiglia di rosso della casa"
+   },
+   {
+    "en": "Two waters, please",
+    "it": "Due acque, per favore"
+   },
+   {
+    "en": "Another coffee, please",
+    "it": "Un altro caffè, per favore"
+   },
+   {
+    "en": "Can we see the desserts?",
+    "it": "Possiamo vedere i dolci?"
+   },
+   {
+    "en": "Is the tiramisu homemade?",
+    "it": "Il tiramisù è fatto in casa?"
+   },
+   {
+    "en": "Cantucci with Vin Santo, thank you",
+    "it": "Cantucci e Vin Santo, grazie"
+   }
+  ]
+ },
+ {
+  "id": "restaurant-problems",
+  "title": "At a restaurant — requests & problems",
+  "hint": "Say 'Scusi' (formal) to call the staff politely.",
+  "phrases": [
+   {
+    "en": "Excuse me!",
+    "it": "Scusi!"
+   },
+   {
+    "en": "Sorry, I had ordered the first, not the second",
+    "it": "Scusi, avevo ordinato il primo, non il secondo"
+   },
+   {
+    "en": "This isn't what we ordered",
+    "it": "Questo non è quello che abbiamo ordinato"
+   },
+   {
+    "en": "The plate is cold",
+    "it": "Il piatto è freddo"
+   },
+   {
+    "en": "The pasta is overcooked",
+    "it": "La pasta è scotta"
+   },
+   {
+    "en": "Too salty",
+    "it": "Troppo salato"
+   },
+   {
+    "en": "Could we have it without garlic?",
+    "it": "Senza aglio, è possibile?"
+   },
+   {
+    "en": "I'm allergic to shellfish",
+    "it": "Sono allergico ai crostacei"
+   },
+   {
+    "en": "We don't eat pork",
+    "it": "Non mangiamo il maiale"
+   },
+   {
+    "en": "Do you have vegetarian dishes?",
+    "it": "Avete piatti vegetariani?"
+   },
+   {
+    "en": "Gluten-free, if possible",
+    "it": "Senza glutine, se possibile"
+   },
+   {
+    "en": "Could you hold our courses back a bit?",
+    "it": "Può scaglionare le portate, per favore?"
+   },
+   {
+    "en": "We're in a bit of a hurry",
+    "it": "Abbiamo un po' di fretta"
+   },
+   {
+    "en": "A high chair for the children, please",
+    "it": "Un seggiolone per i bambini, per favore"
+   },
+   {
+    "en": "Can we change tables?",
+    "it": "Possiamo cambiare tavolo?"
+   },
+   {
+    "en": "A table outside, if you have one",
+    "it": "Un tavolo fuori, se ce l'avete"
+   },
+   {
+    "en": "Is this dish spicy?",
+    "it": "Questo piatto è piccante?"
+   },
+   {
+    "en": "Can you explain this dessert to us?",
+    "it": "Può spiegarci questo dolce?"
+   },
+   {
+    "en": "Wonderful — compliments to the chef!",
+    "it": "Buonissimo — complimenti allo chef!"
+   },
+   {
+    "en": "Sorry, the waiter brought us the wrong plates",
+    "it": "Ci sono arrivati i piatti sbagliati"
+   }
+  ]
+ },
+ {
+  "id": "paying",
+  "title": "Paying & leaving",
+  "hint": "Ask for 'il conto' — they'll rarely rush you. Card is widely accepted.",
+  "phrases": [
+   {
+    "en": "The bill, please",
+    "it": "Il conto, per favore"
+   },
+   {
+    "en": "We're all set, thank you",
+    "it": "È tutto, grazie"
+   },
+   {
+    "en": "Can we split the bill?",
+    "it": "Possiamo dividere il conto?"
+   },
+   {
+    "en": "Separate bills would be better",
+    "it": "Meglio conti separati"
+   },
+   {
+    "en": "By card",
+    "it": "Con la carta"
+   },
+   {
+    "en": "In cash",
+    "it": "In contanti"
+   },
+   {
+    "en": "Is there a cover charge?",
+    "it": "C'è il coperto?"
+   },
+   {
+    "en": "Is service included?",
+    "it": "È compreso il servizio?"
+   },
+   {
+    "en": "Can we leave a tip?",
+    "it": "Possiamo lasciare la mancia?"
+   },
+   {
+    "en": "Keep the change",
+    "it": "Tenga il resto"
+   },
+   {
+    "en": "Could I have a receipt, please?",
+    "it": "Mi fa lo scontrino, per favore?"
+   },
+   {
+    "en": "I think there's a mistake on the bill",
+    "it": "Credo ci sia un errore nel conto"
+   },
+   {
+    "en": "It's my treat!",
+    "it": "Offro io!"
+   },
+   {
+    "en": "Do we pay at the till?",
+    "it": "Il conto si paga alla cassa?"
+   },
+   {
+    "en": "Can you call us a taxi?",
+    "it": "Ci può chiamare un taxi?"
+   },
+   {
+    "en": "Can we take the leftovers home?",
+    "it": "Possiamo portare via gli avanzi?"
+   },
+   {
+    "en": "Where is the bathroom?",
+    "it": "Dov'è il bagno?"
+   },
+   {
+    "en": "Thank you, we ate wonderfully",
+    "it": "Grazie, abbiamo mangiato benissimo"
+   },
+   {
+    "en": "See you tomorrow — we'll be back",
+    "it": "A domani — ci rivediamo"
+   },
+   {
+    "en": "Good evening!",
+    "it": "Buona serata!"
+   }
+  ]
+ },
+ {
+  "id": "salumeria",
+  "title": "Bakery, schiacciata & street food",
+  "hint": "Salumerie weigh meat by the etto (100 g). 'Sopra la schiacciata' = put it on flatbread.",
+  "phrases": [
+   {
+    "en": "A piece of schiacciata",
+    "it": "Un pezzo di schiacciata"
+   },
+   {
+    "en": "A slice of cecina (chickpea flatbread)",
+    "it": "Una fetta di cecina"
+   },
+   {
+    "en": "The focaccia with potatoes",
+    "it": "La focaccia con le patate"
+   },
+   {
+    "en": "What's good today?",
+    "it": "Cos'ha di bello oggi?"
+   },
+   {
+    "en": "100 grams of prosciutto, please",
+    "it": "Un etto di prosciutto, per favore"
+   },
+   {
+    "en": "200 grams of finocchiona",
+    "it": "Due etti di finocchiona"
+   },
+   {
+    "en": "Put it on schiacciata",
+    "it": "Su una schiacciata"
+   },
+   {
+    "en": "Toasted, please",
+    "it": "Tostato, per favore"
+   },
+   {
+    "en": "Without mayonnaise",
+    "it": "Senza maionese"
+   },
+   {
+    "en": "With a drizzle of olive oil",
+    "it": "Con un filo d'olio"
+   },
+   {
+    "en": "How much is a piece?",
+    "it": "Quanto costa un pezzo?"
+   },
+   {
+    "en": "Same for me",
+    "it": "Per me uguale"
+   },
+   {
+    "en": "Two of these, please",
+    "it": "Due di questi, per favore"
+   },
+   {
+    "en": "A margherita pizza",
+    "it": "Una pizza margherita"
+   },
+   {
+    "en": "Is pizza sold by the slice?",
+    "it": "La pizza è a taglio?"
+   },
+   {
+    "en": "To take away",
+    "it": "Da portare via"
+   },
+   {
+    "en": "A small beer",
+    "it": "Una birra piccola"
+   },
+   {
+    "en": "A lampredotto sandwich, please",
+    "it": "Un panino con il lampredotto, per favore"
+   },
+   {
+    "en": "With salsa verde",
+    "it": "Con la salsa verde"
+   },
+   {
+    "en": "Where do we wait?",
+    "it": "Dove aspettiamo?"
+   }
+  ]
+ },
+ {
+  "id": "directions",
+  "title": "Asking the way",
+  "hint": "'Scusi' + the place, and point. Florentines will usually just walk you toward it.",
+  "phrases": [
+   {
+    "en": "Excuse me, how do we get to the Duomo?",
+    "it": "Scusi, come arriviamo al Duomo?"
+   },
+   {
+    "en": "Where is the nearest public bathroom?",
+    "it": "Dov'è il bagno pubblico più vicino?"
+   },
+   {
+    "en": "Is it far from here?",
+    "it": "È lontano da qui?"
+   },
+   {
+    "en": "Can we go on foot?",
+    "it": "Si può andare a piedi?"
+   },
+   {
+    "en": "Straight ahead",
+    "it": "Sempre dritto"
+   },
+   {
+    "en": "Turn left / turn right",
+    "it": "Giri a sinistra / a destra"
+   },
+   {
+    "en": "At the end of the street",
+    "it": "In fondo alla via"
+   },
+   {
+    "en": "Just around the corner",
+    "it": "È proprio all'angolo"
+   },
+   {
+    "en": "Across the river",
+    "it": "È dall'altra parte del fiume"
+   },
+   {
+    "en": "It's ten minutes' walk away",
+    "it": "È a dieci minuti a piedi"
+   },
+   {
+    "en": "Is this the way to Piazza della Signoria?",
+    "it": "È questa la strada per Piazza della Signoria?"
+   },
+   {
+    "en": "Can you show us on the map?",
+    "it": "Ce lo può mostrare sulla mappa?"
+   },
+   {
+    "en": "I think we're lost",
+    "it": "Penso che ci siamo persi"
+   },
+   {
+    "en": "Are we in the wrong place?",
+    "it": "Siamo nel posto sbagliato?"
+   },
+   {
+    "en": "Where is the Uffizi?",
+    "it": "Dov'è la Galleria degli Uffizi?"
+   },
+   {
+    "en": "Is there a bus stop nearby?",
+    "it": "C'è una fermata dell'autobus qui vicino?"
+   },
+   {
+    "en": "Which bus goes to the station?",
+    "it": "Quale autobus va alla stazione?"
+   },
+   {
+    "en": "How long does it take by taxi?",
+    "it": "Quanto ci vuole in taxi?"
+   },
+   {
+    "en": "We only speak a little Italian",
+    "it": "Parliamo solo un po' di italiano"
+   },
+   {
+    "en": "Thank you, you're very kind!",
+    "it": "Grazie, è molto gentile!"
+   }
+  ]
+ },
+ {
+  "id": "shopping",
+  "title": "Markets & shops",
+  "hint": "At food markets 'assaggiamo?' (can we taste?) works on cheese and salumi counters.",
+  "phrases": [
+   {
+    "en": "Just looking, thanks",
+    "it": "Sto solo guardando, grazie"
+   },
+   {
+    "en": "How much is it?",
+    "it": "Quanto costa?"
+   },
+   {
+    "en": "Can we taste it?",
+    "it": "Possiamo assaggiare?"
+   },
+   {
+    "en": "Is it fresh?",
+    "it": "È fresco?"
+   },
+   {
+    "en": "100 grams of pecorino, please",
+    "it": "Un etto di pecorino, per favore"
+   },
+   {
+    "en": "A little piece, please",
+    "it": "Un pezzetto, per favore"
+   },
+   {
+    "en": "What cheese would you recommend?",
+    "it": "Che formaggio mi consiglia?"
+   },
+   {
+    "en": "I'll take it",
+    "it": "Lo prendo"
+   },
+   {
+    "en": "Can I pay with card?",
+    "it": "Posso pagare con la carta?"
+   },
+   {
+    "en": "Do you ship to the UK?",
+    "it": "Spedite nel Regno Unito?"
+   },
+   {
+    "en": "Do you have a smaller size?",
+    "it": "Ha una taglia più piccola?"
+   },
+   {
+    "en": "Can I try it on?",
+    "it": "Posso provarlo?"
+   },
+   {
+    "en": "Where is the fitting room?",
+    "it": "Dov'è il camerino?"
+   },
+   {
+    "en": "Do you have it in another colour?",
+    "it": "Ce l'ha di un altro colore?"
+   },
+   {
+    "en": "Can you gift-wrap it?",
+    "it": "Me lo può incartare per regalo?"
+   },
+   {
+    "en": "Do you sell local souvenirs?",
+    "it": "Avete souvenirs del posto?"
+   },
+   {
+    "en": "A postcard and a stamp, please",
+    "it": "Una cartolina e un francobollo, per favore"
+   },
+   {
+    "en": "Do you have change for the vending machine?",
+    "it": "Ha il resto per la macchinetta?"
+   },
+   {
+    "en": "What time do you open tomorrow?",
+    "it": "A che ora aprite domani?"
+   },
+   {
+    "en": "Are these the opening hours?",
+    "it": "Sono questi gli orari di apertura?"
+   }
+  ]
+ },
+ {
+  "id": "hotel",
+  "title": "At the hotel / apartment",
+  "hint": "Relais Cavalcanti hosts Anna & Francesca — front desk phrases apply; lift = ascensore.",
+  "phrases": [
+   {
+    "en": "Check-in, please — I have a reservation",
+    "it": "Check-in, per favore — ho una prenotazione"
+   },
+   {
+    "en": "What time is breakfast?",
+    "it": "A che ora è la colazione?"
+   },
+   {
+    "en": "Is breakfast included?",
+    "it": "La colazione è inclusa?"
+   },
+   {
+    "en": "What's the Wi-Fi password?",
+    "it": "Qual è la password del Wi-Fi?"
+   },
+   {
+    "en": "What time is check-out?",
+    "it": "A che ora è il check-out?"
+   },
+   {
+    "en": "Could we check out a bit later?",
+    "it": "Potremmo fare il check-out un po' più tardi?"
+   },
+   {
+    "en": "Can we leave our luggage until the evening?",
+    "it": "Possiamo lasciare i bagagli fino a sera?"
+   },
+   {
+    "en": "The key doesn't work",
+    "it": "La chiave non funziona"
+   },
+   {
+    "en": "There's no hot water in the room",
+    "it": "La camera non ha acqua calda"
+   },
+   {
+    "en": "The air conditioning isn't working",
+    "it": "L'aria condizionata non funziona"
+   },
+   {
+    "en": "Could we have more towels?",
+    "it": "Ci servono più asciugamani"
+   },
+   {
+    "en": "Could you clean the room tomorrow morning?",
+    "it": "Può sistemare la camera domani mattina?"
+   },
+   {
+    "en": "What's the code for the safe?",
+    "it": "Qual è il codice della cassaforte?"
+   },
+   {
+    "en": "Could you wake us at seven?",
+    "it": "Potrebbe svegliarci alle sette?"
+   },
+   {
+    "en": "Where is the lift?",
+    "it": "Dov'è l'ascensore?"
+   },
+   {
+    "en": "Do you have laundry service?",
+    "it": "Avete un servizio di lavanderia?"
+   },
+   {
+    "en": "Could we change rooms, if possible?",
+    "it": "Potremmo cambiare camera, se possibile?"
+   },
+   {
+    "en": "Is parking included?",
+    "it": "Il parcheggio è incluso?"
+   },
+   {
+    "en": "Could we book a restaurant for four, please?",
+    "it": "Può prenotarci un tavolo per quattro, per favore?"
+   },
+   {
+    "en": "How do we get to the train station from here?",
+    "it": "Come arriviamo alla stazione da qui?"
+   }
+  ]
+ },
+ {
+  "id": "transport",
+  "title": "Trains, buses & taxis",
+  "hint": "Regional trains ('Regionale') need validation ('convalida') before boarding. Pisa↔Florence is the 1-hour regionale.",
+  "phrases": [
+   {
+    "en": "A one-way ticket to Pisa, please",
+    "it": "Un biglietto di sola andata per Pisa, per favore"
+   },
+   {
+    "en": "Return",
+    "it": "Andata e ritorno"
+   },
+   {
+    "en": "What platform?",
+    "it": "Da quale binario parte?"
+   },
+   {
+    "en": "Is it a direct train?",
+    "it": "È un treno diretto?"
+   },
+   {
+    "en": "Does it stop in Florence?",
+    "it": "Ferma a Firenze?"
+   },
+   {
+    "en": "The train is late",
+    "it": "Il treno è in ritardo"
+   },
+   {
+    "en": "The train is cancelled",
+    "it": "Il treno è soppresso"
+   },
+   {
+    "en": "We missed the train",
+    "it": "Abbiamo perso il treno"
+   },
+   {
+    "en": "How long does it take?",
+    "it": "Quanto dura il viaggio?"
+   },
+   {
+    "en": "Next stop?",
+    "it": "Qual è la prossima fermata?"
+   },
+   {
+    "en": "A bus ticket, please",
+    "it": "Un biglietto dell'autobus, per favore"
+   },
+   {
+    "en": "Bus 4 to the center?",
+    "it": "L'autobus 4 va in centro?"
+   },
+   {
+    "en": "Is there a shuttle to the airport?",
+    "it": "C'è una navetta per l'aeroporto?"
+   },
+   {
+    "en": "Taxi rank",
+    "it": "La fila dei taxi"
+   },
+   {
+    "en": "To Via de' Benci, please",
+    "it": "In Via de' Benci, per favore"
+   },
+   {
+    "en": "Stop here, please",
+    "it": "Mi lasci qui, per favore"
+   },
+   {
+    "en": "How much do we pay?",
+    "it": "Quanto dobbiamo pagare?"
+   },
+   {
+    "en": "Can you send us an invoice?",
+    "it": "Mi può fare la ricevuta?"
+   },
+   {
+    "en": "Could you pick us up at seven?",
+    "it": "Può passare a prenderci alle sette?"
+   },
+   {
+    "en": "We're heading to the airport (Ryanair FR9923, 17:40)",
+    "it": "Dobbiamo essere in aeroporto — volo alle 17:40"
+   }
+  ]
+ },
+ {
+  "id": "emergency",
+  "title": "Health, pharmacy & emergencies",
+  "hint": "Single European emergency number: 112. 'Farmacia di turno' = the on-duty pharmacy open at night/Sunday.",
+  "phrases": [
+   {
+    "en": "Help!",
+    "it": "Aiuto!"
+   },
+   {
+    "en": "Call an ambulance, please",
+    "it": "Chiami un'ambulanza, per favore"
+   },
+   {
+    "en": "We need a doctor",
+    "it": "Ci serve un medico"
+   },
+   {
+    "en": "Where is the hospital?",
+    "it": "Dov'è l'ospedale?"
+   },
+   {
+    "en": "What's the nearest pharmacy?",
+    "it": "Qual è la farmacia più vicina?"
+   },
+   {
+    "en": "Is there a pharmacy on duty tonight?",
+    "it": "C'è una farmacia di turno stasera?"
+   },
+   {
+    "en": "Do you have something for a headache?",
+    "it": "Avete qualcosa per il mal di testa?"
+   },
+   {
+    "en": "Paracetamol (Tachipirina)",
+    "it": "Una tachipirina"
+   },
+   {
+    "en": "I'm allergic to penicillin",
+    "it": "Sono allergico alla penicillina"
+   },
+   {
+    "en": "I don't feel well",
+    "it": "Non mi sento bene"
+   },
+   {
+    "en": "It hurts here",
+    "it": "Mi fa male qui"
+   },
+   {
+    "en": "We've been in the sun too much",
+    "it": "Ci siamo presi un colpo di sole"
+   },
+   {
+    "en": "I lost my passport",
+    "it": "Ho perso il passaporto"
+   },
+   {
+    "en": "My bag was stolen",
+    "it": "Mi hanno rubato la borsa"
+   },
+   {
+    "en": "We need to report it to the police",
+    "it": "Dobbiamo denunciarlo alla polizia"
+   },
+   {
+    "en": "Do you speak English?",
+    "it": "Parla inglese?"
+   },
+   {
+    "en": "Could you speak more slowly, please?",
+    "it": "Può parlare più lentamente, per favore?"
+   },
+   {
+    "en": "Could you repeat that?",
+    "it": "Può ripetere, per favore?"
+   },
+   {
+    "en": "I don't understand",
+    "it": "Non capisco"
+   },
+   {
+    "en": "No problem!",
+    "it": "Nessun problema!"
+   }
+  ]
+ }
+]
