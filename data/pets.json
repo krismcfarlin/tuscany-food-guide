@@ -1,0 +1,27 @@
+{
+ "intro": "Dog-friendly Florence: the stair-free route up from the Ponte Vecchio side, fenced dog runs (aree cani), and local etiquette.",
+ "route": {
+  "title": "Stair-free route to Piazzale Michelangelo (David) & the Rose Garden",
+  "hint": "The usual walk up uses the Scalinate del Poggi — beautiful stone stairs, brutal with a dog on a leash. Take the winding road instead; it is stairs-free the whole way.",
+  "mapsUrl": "https://www.google.com/maps/dir/?api=1&destination=Piazzale+Michelangelo,+Florence&travelmode=walking",
+  "steps": [
+   {"title": "The river stroll", "maps": "Lungarno Serristori, Firenze", "text": "Leave the apartment and head east along the south bank of the Arno via Lungarno Torrigiani and Lungarno Serristori. Flat, easy walking with wide sidewalks."},
+   {"title": "The turn", "maps": "Piazza Poggi, Firenze", "text": "At Piazza Poggi (the square with the giant stone tower) do NOT take the stairs — turn right onto Viale Giuseppe Poggi."},
+   {"title": "The winding incline", "maps": "Viale Giuseppe Poggi, Firenze", "text": "The road winds gently up the hillside with a wide paved pedestrian sidewalk under shady trees. A steady climb, completely free of stairs."},
+   {"title": "Rose Garden side gate", "maps": "Giardino delle Rose, Firenze", "text": "About halfway up, the upper side gate of the Giardino delle Rose lets you in with the dog on a leash — paved paths and skyline views."},
+   {"title": "The summit", "maps": "Piazzale Michelangelo, Firenze", "text": "Exit back onto the sidewalk and follow the final bend of the road straight into the panoramic plaza of Piazzale Michelangelo (David on the steps)."}
+  ]
+ },
+ "spots": [
+  {"name": "Area Cani Carraia", "where": "Via dell'Erta Canina (Oltrarno)", "why": "The closest dedicated dog park to the route up the hill. Fully fenced municipal green space just outside the old city walls: mature tree canopy shade, wooden dog-agility structures and picnic tables.", "maps": "Area Cani Carraia, Via dell'Erta Canina, Firenze"},
+  {"name": "Parco delle Cascine", "where": "West of the centre, along the Arno", "why": "Florence's largest park — the 'Central Park' of the city. Miles of paved and dirt trails plus a large dedicated off-leash dog area (Area Cani Cascine) for socializing.", "maps": "Parco delle Cascine, Firenze"},
+  {"name": "Orti del Parnaso", "where": "North of the river, near Giardino dell'Orticoltura", "why": "Multi-tiered hillside park famous for its giant mythical dragon fountain. Hugely popular with local dog owners: uncrowded Duomo views and a well-used fenced dog enclosure.", "maps": "Orti del Parnaso, Firenze"},
+  {"name": "Piazza della Repubblica", "where": "The exact heart of the historic center", "why": "Wide, flat, pedestrianized and dog-friendly with a leash. Good spot for an outdoor table at a historic café and people-watching without the cobblestone crowds.", "maps": "Piazza della Repubblica, Firenze"}
+ ],
+ "etiquette": [
+  {"title": "Trams & buses", "text": "Dogs ride Florence public transport on a short leash; carry a muzzle anyway — drivers and passengers can request it."},
+  {"title": "Water on the walk", "text": "It gets warm. Bring a collapsible bowl and refill at the city's small public fountains (fontanelli) around the squares."},
+  {"title": "Leash rules", "text": "Off-leash only inside the fenced aree cani. Historic center and gardens generally require leashes."},
+  {"title": "Outdoor dining", "text": "Most trattorie with outdoor tables happily take a small leashed dog; ask 'Il cane può venire fuori?' before sitting."}
+ ]
+}
