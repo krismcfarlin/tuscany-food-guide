@@ -48,7 +48,8 @@ if (!passphrase) {
   const again = await askHidden('Repeat:    ');
   if (passphrase !== again) { console.error('passphrases did not match'); process.exit(1); }
 }
-if (!passphrase || passphrase.length < 8) { console.error('passphrase too short (min 8 chars)'); process.exit(1); }
+if (!passphrase) { console.error('passphrase required'); process.exit(1); }
+if (passphrase.length < 8) console.warn('warning: short passphrase — brute-forceable; fine for convenience, not for secrets you must keep long-term');
 
 let plain;
 try { plain = readFileSync(IN, 'utf8'); JSON.parse(plain); }
