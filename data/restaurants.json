@@ -745,5 +745,21 @@
     "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLemrbq7HMNyyYkmFDxXugU04uVDP7TeaxodlR5M4kCvI3r3vrssl6Yknv30ymTA6KEOUoi69fBwIYXzq_r4JkeatQ2DG3RE2k8L5jOtvn_tbfjZ8mWzRra6uFcF5N3lbyUfrF2Dm6v5T6tt=w1200-h900-p-k-no",
     "imageSourceUrl": "https://www.google.com/maps/place/Schiaccia+(bakery)/@43.7670312,11.2505465,17z/data=!3m1!4b1!4m6!3m5!1s0x132a51ea4c80b383:0x3582eef0f7eaabee!8m2!3d43.7670312!4d11.2505465!16s%2Fg%2F11kb_j0yzx?hl=en&entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D",
     "imageRightsStatus": "google-maps-user-photo-rights-unverified"
+  },
+  {
+    "id": "fi-il-contadino",
+    "city": "Florence",
+    "address": "Via Palazzuolo 69/71r, 50123 Firenze FI",
+    "name": "Trattoria Il Contadino",
+    "origin": "suggested",
+    "identityStatus": "verified-third-party",
+    "identitySourceUrl": "https://www.tripadvisor.it/Restaurant_Review-g187895-d1208856-Reviews-Trattoria_il_Contadino-Florence_Tuscany.html",
+    "notes": "No-frills traditional Florentine trattoria dal 1970 on Via Palazzuolo, a 5-minute walk from Santa Maria Novella; famously patronized by locals rather than tourists (4.3/5 on TripAdvisor, 2,800+ reviews). Known for fixed-price lunch and dinner menus that include multiple courses, water, wine and bread (reported) — the standing value play near the station. Spartan dining room, checkered floor. Daily 12:00–15:00 and 18:30–22:30. Phone 055 238 2673. Official site ilcontadinofirenze.it has a menu page but it is image-based; no per-dish prices captured yet. Venue photograph from its Google Maps listing (interior); rights for republication not confirmed.",
+    "cuisine": "Traditional Florentine / Tuscan",
+    "latitude": 43.774391,
+    "longitude": 11.244824,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcoOb7KmGJKCEKqH3dFArexzD15bvBmGzGpz0iLRGPfpwHXs1XwzVMJ7rOy34HD7c3LvBX72IiuTDagImRVoAAiaqCpSJtxMDRLguclWtLYLYxsCspPdxygwpTDBVTMggk7KHND=w1200-h900-p-k-no",
+    "imageSourceUrl": "https://www.google.com/maps/place/Trattoria+Il+Contadino/@43.774007,11.2455814,17z/data=!3m1!4b1!4m6!3m5!1s0x132a56ae95d6c1a5:0xe1b8cb74e9e3fad1!8m2!3d43.774007!4d11.2455814!16s%2Fg%2F1td3c83x?hl=en&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D",
+    "imageRightsStatus": "google-maps-user-photo-rights-unverified"
   }
 ]
