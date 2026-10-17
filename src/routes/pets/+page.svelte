@@ -2,33 +2,43 @@
  import petsJson from '../../../data/pets.json';
 
  type Step = { title: string; maps: string; text: string };
- type Spot = { name: string; where: string; why: string; maps: string };
- const pets = petsJson as {
-   intro: string;
-   route: { title: string; hint: string; mapsUrl: string; steps: Step[] };
-   spots: Spot[];
-   etiquette: { title: string; text: string }[];
- };
+ type Spot = { name: string; where: string; why: string; maps: string; coords: number[] | null };
+ type City = { id: string; label: string; intro: string; route: { title: string; hint: string; mapsUrl: string; steps: Step[] }; spots: Spot[]; etiquette: { title: string; text: string }[] };
+ const cities = (petsJson as { cities: City[] }).cities;
+
+ let cityId = cities[0].id;
 
  function mapsUrl(q: string) { return 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(q); }
- function pin(lat: number, lng: number) { return "https://www.google.com/maps/search/?api=1&query=" + lat + "," + lng; }
+ function pin(s: Spot) { return s.coords ? `https://www.google.com/maps/search/?api=1&query=${s.coords[0]},${s.coords[1]}` : mapsUrl(s.maps); }
+ function select(c: City) {
+  cityId = c.id;
+  const u = new URL(window.location.href);
+  u.searchParams.set('city', c.id);
+  history.replaceState({}, '', u);
+ }
 
- const coords: Record<string, [number, number]> = {
-  "Area Cani Carraia": [43.76198, 11.25583],
-  "Parco delle Cascine": [43.77586, 11.23084],
-  "Orti del Parnaso": [43.78342, 11.26444],
-  "Piazza della Repubblica": [43.77067, 11.25449]
- };
+ // Deep link support: /pets?city=lucca opens the Lucca tab.
+ if (typeof window !== 'undefined') {
+  const want = new URLSearchParams(window.location.search).get('city');
+  if (want && cities.some((c) => c.id === want)) cityId = want;
+ }
+ $: city = cities.find((c) => c.id === cityId) || cities[0];
 </script>
 
-<svelte:head><title>Dog-friendly Florence · Tuscany Food Guide</title></svelte:head>
-<section class="pageintro"><p class="eyebrow">🐾 CON IL CANE</p><h1>Florence with the dog</h1><p>{pets.intro}</p></section>
+<svelte:head><title>Dog-friendly Florence & Lucca · Tuscany Food Guide</title></svelte:head>
+<section class="pageintro"><p class="eyebrow">🐾 CON IL CANE</p><h1>With the dog</h1><p>{city.intro}</p></section>
+
+<nav class="subnav" aria-label="Choose city">
+ {#each cities as c (c.id)}
+  <button class="citytab" class:active={c.id === cityId} aria-pressed={c.id === cityId} onclick={() => select(c)}>🐾 {c.label}</button>
+ {/each}
+</nav>
 
 <section class="petroute">
- <h2>{pets.route.title}</h2>
- <p class="hint">{pets.route.hint}</p>
+ <h2>{city.route.title}</h2>
+ <p class="hint">{city.route.hint}</p>
  <div class="steps">
-  {#each pets.route.steps as st, i (st.title)}
+  {#each city.route.steps as st, i (st.title)}
    <div class="step">
     <span class="num">{i + 1}</span>
     <div><strong>{st.title}</strong><p>{st.text}</p>
@@ -36,29 +46,32 @@
    </div>
   {/each}
  </div>
- <a class="route-open" href={pets.route.mapsUrl} target="_blank" rel="noopener noreferrer">Open the whole route in Google Maps ↗</a>
+ <a class="route-open" href={city.route.mapsUrl} target="_blank" rel="noopener noreferrer">Open the whole route in Google Maps ↗</a>
 </section>
 
-<h2>Top dog spots</h2>
+<h2>Top dog spots in {city.label}</h2>
 <div class="petgrid">
- {#each pets.spots as s (s.name)}
+ {#each city.spots as s (s.name)}
   <article class="petcard">
    <h3>{s.name}</h3>
    <small>{s.where}</small>
    <p>{s.why}</p>
-   <a href={coords[s.name] ? pin(...coords[s.name]) : mapsUrl(s.maps)} target="_blank" rel="noopener noreferrer">Map ↗</a>
+   <a href={pin(s)} target="_blank" rel="noopener noreferrer">Map ↗</a>
   </article>
  {/each}
 </div>
 
 <h2>Local pet etiquette</h2>
 <div class="pets">
- {#each pets.etiquette as e (e.title)}
+ {#each city.etiquette as e (e.title)}
   <div class="petrow"><strong>{e.title}</strong><span>{e.text}</span></div>
  {/each}
 </div>
 
 <style>
+ .subnav{display:flex;gap:8px;margin:2px 0 20px;flex-wrap:wrap}
+ .citytab{border:1px solid #cbd5ca;background:white;color:#285a45;border-radius:22px;padding:9px 18px;cursor:pointer;font:inherit;font-weight:700;font-size:.9rem}
+ .citytab.active{background:#285a45;color:#fff;border-color:#285a45}
  .petroute{border:1px solid #e0e5db;border-radius:16px;background:white;padding:20px 22px;margin:20px 0 30px}
  .hint{color:#64746b;font-size:.9rem;line-height:1.55}
  .steps{display:grid;gap:12px;margin:14px 0}
