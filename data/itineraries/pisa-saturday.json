@@ -1,0 +1,138 @@
+{
+ "id": "pisa-saturday",
+ "title": "Pisa morning & lunch — reversed city walk, then the flight home",
+ "day": "2026-10-24",
+ "subtitle": "Saturday before FR9923 (PSA → EIN, 17:40): morning train to Pisa Centrale, drop bags, a relaxed reversed loop through the centre, pizza at Il Montino for lunch, the Keith Haring mural as the last stop near the station, then PisaMover to the airport ~2 h before departure.",
+ "excluded": "Baths of Nero (Bagni di Nerone) and everything inside Piazza dei Miracoli (Tower, Duomo, Baptistery) — deliberately skipped again today.",
+ "alert": {
+  "title": "Il Montino timing — now comfortable, still confirm",
+  "text": "Saturday lunch opens 12:30 (their site lists Mon–? lunch 12:30–15:00). The old Monday/Friday plan arrived 25 min before closing; today you sit down at 12:30 with no rush. Call +39 050 598695 to confirm a table for the group at 12:30 and Saturday hours. Airport math with buffers: bags at Centrale by 14:45, PisaMover ~15:00 (every few minutes, ~5 min ride, bags fine on board), at PSA ~15:15 for a 17:40 Fast Track departure — 2 h 25 min of slack for delays."
+ },
+ "transfers": [
+  {
+   "mode": "Train",
+   "text": "Lucca → Pisa Centrale, Regionale, ~30 min, roughly every 30 min. Target the ~09:35 departure (validate the ticket at the yellow machines)."
+  },
+  {
+   "mode": "Train",
+   "text": "If you're coming from Florence instead, SMN → Pisa Centrale is ~1 h — leave by 08:45 for the same timeline."
+  },
+  {
+   "mode": "PisaMover",
+   "text": "Pisa Centrale → Galileo Galilei Airport, every few minutes, ~5 min ride. Go with the bags; no need to be back at the station after the mural."
+  }
+ ],
+ "stops": [
+  {
+   "time": "09:35–10:05",
+   "name": "Train to Pisa Centrale",
+   "coords": [
+    43.70846,
+    10.39834
+   ],
+   "walk": null,
+   "note": "From Lucca (or Florence, see transfers). Leave any Lucca bags with the host per check-out terms; today's luggage lives in the station lockers."
+  },
+  {
+   "time": "10:05–10:20",
+   "name": "Drop luggage at the station",
+   "coords": [
+    43.70846,
+    10.39834
+   ],
+   "walk": null,
+   "note": "Bag-drop / lockers around Piazza della Stazione. Keep receipts for the ~14:30 pickup on the way to the airport."
+  },
+  {
+   "time": "10:20–10:45",
+   "name": "Walk to Piazza dei Cavalieri",
+   "coords": [
+    43.71946,
+    10.40009
+   ],
+   "walk": "~0.8 km · 11 min",
+   "note": "Uphill-order stops are now reversed twice — today we start with the sights so pizza lands exactly at 12:30. The scarred tower, the Scavi di Tut photo spot."
+  },
+  {
+   "time": "10:45–11:20",
+   "name": "Piazza dei Cavalieri",
+   "coords": [
+    43.71946,
+    10.40009
+   ],
+   "walk": null,
+   "note": "Palazzo della Carovana facade, quiet afternoon-of-the-morning light."
+  },
+  {
+   "time": "11:20–11:35",
+   "name": "Piazza delle Vettovaglie",
+   "coords": [
+    43.71697,
+    10.40178
+   ],
+   "walk": "~0.4 km · 5 min",
+   "note": "Old market loggia; espresso at the arcade tables if you need a second."
+  },
+  {
+   "time": "11:35–12:15",
+   "name": "Walk along the Arno",
+   "coords": [
+    43.71468,
+    10.40678
+   ],
+   "walk": "~0.5 km · 7 min to lungarno",
+   "note": "Lungarno Mediceo eastward — coloured facades, no bridges needed."
+  },
+  {
+   "time": "12:30–13:30",
+   "name": "Pizza at Pizzeria Il Montino",
+   "coords": [
+    43.71814,
+    10.40153
+   ],
+   "walk": "~0.4 km · 5 min back",
+   "note": "Your own pick since the first planning: pizza, cecina, castagnaccio, filled schiacciate. Via (Vicolo) del Monte 1. Relaxed full hour — this is the last proper meal in Tuscany."
+  },
+  {
+   "time": "13:30–14:15",
+   "name": "Keith Haring — Tuttomondo mural",
+   "coords": [
+    43.71117,
+    10.39831
+   ],
+   "walk": "~1.0 km · 13 min",
+   "note": "Wall of Chiesa di S. Antonio, Largo Keith Haring, painted 1983. Now it's the finale near the station instead of the mid-afternoon stop."
+  },
+  {
+   "time": "14:15–14:45",
+   "name": "Collect luggage at Centrale",
+   "coords": [
+    43.70846,
+    10.39834
+   ],
+   "walk": "~0.5 km · 6 min",
+   "note": "Buffer built in; even a slow walk beats the train schedule."
+  },
+  {
+   "time": "15:00",
+   "name": "PisaMover to Galileo Galilei (PSA)",
+   "coords": [
+    43.68479,
+    10.39553
+   ],
+   "walk": null,
+   "note": "Depart the station concourse level. Arrive ~15:10, bag drop + Fast Track security, gate by 17:10."
+  },
+  {
+   "time": "17:40",
+   "name": "FR9923 PSA → Eindhoven",
+   "coords": [
+    43.68479,
+    10.39553
+   ],
+   "walk": null,
+   "note": "Booking C2J5JM, seats 09A/09B, Fast Track, Priority & 2 Cabin Bags. Arrive EIN 19:35."
+  }
+ ],
+ "mapsRouteUrl": "https://www.google.com/maps/dir/?api=1&waypoints=Pisa%20Centrale%7CPiazza%20dei%20Cavalieri%2C%20Pisa%7CPiazza%20delle%20Vettovaglie%2C%20Pisa%7CLungarno%20Mediceo%2C%20Pisa%7CVia%20del%20Monte%201%2C%20Pisa%7CLargo%20Keith%20Haring%2C%20Pisa&destination=Stazione%20di%20Pisa%20Centrale&travelmode=walking"
+}
