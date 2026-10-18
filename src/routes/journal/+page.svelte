@@ -119,7 +119,7 @@
     {#if b.address}<p class="jaddr">{b.address}</p>{/if}
     {#if b.note}<p class="jnote">{b.note}</p>{/if}
     <div class="jacts2">
-     {#if b.address}<a href={directionsUrl(b.address, b.travel || 'walking')} target="_blank" rel="noopener noreferrer">{b.travel === 'driving' ? 'Directions (drive) ↗' : b.travel === 'flight' ? 'Airport ↗' : 'Walk there ↗'}</a>{/if}
+     {#if b.address}<a href={directionsUrl(b.address, b.travel === 'train' ? 'transit' : (b.travel || 'walking'))} target="_blank" rel="noopener noreferrer">{b.travel === 'driving' ? 'Directions (drive) ↗' : b.travel === 'flight' ? 'Airport ↗' : b.travel === 'train' ? 'Station ↗' : 'Walk there ↗'}</a>{/if}
      {#if b.address}<a href={mapsUrl(b.address)} target="_blank" rel="noopener noreferrer">Map ↗</a>{/if}
      {#if b.activityUrl}<a href={b.activityUrl} target="_blank" rel="noopener noreferrer">Booking details ↗</a>{/if}
      {#if b.url}<a href={b.url} target="_blank" rel="noopener noreferrer">Manage booking ↗</a>{/if}
