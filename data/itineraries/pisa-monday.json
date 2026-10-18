@@ -1,0 +1,29 @@
+{
+ "id": "pisa-monday",
+ "title": "Pisa afternoon — Il Montino late lunch + reversed city walk",
+ "day": "2026-10-19",
+ "subtitle": "Flight lands 13:10 → train to Florence ~17:00–17:30. Bags drop at the station, pizza at 14:35, sights in reverse order finishing at the Keith Haring mural near Centrale.",
+ "excluded": "Baths of Nero (Bagni di Nerone) and everything inside Piazza dei Miracoli (Tower, Duomo, Baptistery) — deliberately skipped today.",
+ "alert": {
+  "title": "Il Montino — check the time before you count on it",
+  "text": "Il Montino's own site lists Monday lunch as 12:30–15:00 (dinner reopens 19:00). Your plan-time arrival of ~14:35 leaves only 25 minutes. Call +39 050 598695 to confirm they can serve you that late. If the flight or bags run late: go straight for the pizza and drop the bags afterwards, or switch to another lunch spot (Mickey's Cecineria and Panimo are both on your list and station-side of the centre)."
+ },
+ "transfers": [
+  {"mode": "PisaMover", "text": "Airport → Pisa Centrale, every few minutes, ~5 min ride. Get it done by ~14:00."},
+  {"mode": "Train", "text": "Pisa Centrale → Firenze SMN, regional (Regionale) roughly every 30 min, ~50–60 min ride. Target departure 17:00–17:30; ticket inspectors on board — validate (convalida) the ticket at the yellow machines before boarding."}
+ ],
+ "stops": [
+  {"time": "13:10", "name": "Land at Galileo Galilei Airport (PSA)", "coords": [43.68479, 10.39553], "note": "FR9924 from Eindhoven. Buffers everywhere below assume no serious delay."},
+  {"time": "13:45–14:00", "name": "PisaMover to Pisa Centrale", "coords": [43.70846, 10.39834], "walk": null, "note": "Follow signs 'Stazione / PisaMover' from arrivals."},
+  {"time": "14:00–14:15", "name": "Drop luggage near the station", "coords": [43.70846, 10.39834], "walk": null, "note": "Bag-drop/shuttle points around Piazza della Stazione; keep the receipt for pickup later."},
+  {"time": "14:15–14:35", "name": "Walk to Il Montino", "coords": [43.71814, 10.40153], "walk": "1.4 km · ~20 min", "note": "Cut through the Borgo Stretto shopping street if the weather is kind."},
+  {"time": "14:35–15:00", "name": "Pizza at Pizzeria Il Montino", "coords": [43.71814, 10.40153], "walk": null, "note": "Your own pick since the first trip planning: pizza, cecina, castagnaccio, filled schiacciate. Address Via del Monte 1. See the alert card about Monday hours."},
+  {"time": "15:00–15:15", "name": "Piazza dei Cavalieri", "coords": [43.71946, 10.40009], "walk": "~0.3 km · 4 min", "note": "The scarred-tower square, Scavi di Tut photo spot; quiet in the afternoon heat."},
+  {"time": "15:15–15:35", "name": "Piazza delle Vettovaglie", "coords": [43.71697, 10.40178], "walk": "~0.4 km · 5 min", "note": "Old market loggia, aperitivo tables under the arcades."},
+  {"time": "15:35–16:05", "name": "Walk along the Arno", "coords": [43.71468, 10.40678], "walk": "~0.5 km · 7 min to the lungarno", "note": "Lungarno Mediceo eastward — the coloured facades side; no bridges to cross, easy pace with a bag-free afternoon."},
+  {"time": "16:05–16:20", "name": "Keith Haring — Tuttomondo mural", "coords": [43.71117, 10.39831], "walk": "~0.6 km · 8 min", "note": "On the wall of Chiesa di S. Antonio, Largo Keith Haring — painted 1983, the reason to finish the loop this side."},
+  {"time": "16:20–16:35", "name": "Collect luggage → Centrale", "coords": [43.70846, 10.39834], "walk": "~0.5 km · 6 min", "note": "Mural to the bag-drop is under 10 min at speed."},
+  {"time": "17:00–17:30", "name": "Train to Firenze SMN", "coords": [43.7732, 11.1473], "walk": null, "note": "~50–60 min. Then: your Monday evening (apartment ~18:00, Conad cups ~19:00, Il Santo Vino sfuso before 20:00) is already on the journal grid."}
+ ],
+ "mapsRouteUrl": "https://www.google.com/maps/dir/?api=1&waypoints=Pisa%20Centrale%7CVia%20del%20Monte%201%2C%20Pisa%7CPiazza%20dei%20Cavalieri%2C%20Pisa%7CPiazza%20delle%20Vettovaglie%2C%20Pisa%7CLungarno%20Mediceo%2C%20Pisa%7CLargo%20Keith%20Haring%2C%20Pisa&destination=Pisa%20Centrale&travelmode=walking"
+}
